@@ -1,0 +1,2 @@
+# docs
+Serpent OS documentation
