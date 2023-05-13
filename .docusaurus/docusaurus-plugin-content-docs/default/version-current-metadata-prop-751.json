@@ -100,7 +100,7 @@
     "developers/intro": {
       "id": "developers/intro",
       "title": "Introduction",
-      "description": "These docs are brand new and quite pathetic atm.",
+      "description": "In Serpent OS, we rely heavily on the D programming language,",
       "sidebar": "devSidebar"
     },
     "intro": {

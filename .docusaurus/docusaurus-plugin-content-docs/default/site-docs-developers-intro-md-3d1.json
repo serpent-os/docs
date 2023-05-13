@@ -2,7 +2,7 @@
   "unversionedId": "developers/intro",
   "id": "developers/intro",
   "title": "Introduction",
-  "description": "These docs are brand new and quite pathetic atm.",
+  "description": "In Serpent OS, we rely heavily on the D programming language,",
   "source": "@site/docs/developers/intro.md",
   "sourceDirName": "developers",
   "slug": "/developers/intro",
