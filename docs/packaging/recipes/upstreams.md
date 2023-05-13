@@ -26,9 +26,9 @@ upstreams
 
 | Key       | Type      | Description     |
 |-----------|-----------|-----------------|
-| hash      | `boolean` | SHA256 of the upstream source
+| hash      | `string`  | SHA256 of the upstream source
 | stripdirs | `string`  | Number of directories to remove from archive root
-| unpack    | `bool`    | Whether to automatically unpack archive or not
+| unpack    | `boolean`    | Whether to automatically unpack archive or not
 | unpackdir | `string`  | Force a different directory name when unpacking
 
 
