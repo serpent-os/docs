@@ -6,7 +6,7 @@
 export default {
   "title": "Serpent OS",
   "tagline": "Even snakes need taming",
-  "favicon": "img/favicon.ico",
+  "favicon": "favicon.ico",
   "url": "https://docs.serpentos.com",
   "baseUrl": "/",
   "organizationName": "serpent-os",
