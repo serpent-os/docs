@@ -2,7 +2,7 @@
   "unversionedId": "developers/coding_style/short_and_sweet",
   "id": "developers/coding_style/short_and_sweet",
   "title": "Short and sweet",
-  "description": "We prefer to keep code short, elegant and easy to follow. Remember, Don't Repeat Yourself!",
+  "description": "Nobody wants to read functions so long that they'd scare a printer.",
   "source": "@site/docs/developers/coding_style/short_and_sweet.md",
   "sourceDirName": "developers/coding_style",
   "slug": "/developers/coding_style/short_and_sweet",

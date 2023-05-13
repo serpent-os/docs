@@ -1,5 +1,7 @@
 # `@safe` D
 
+Let's face it. Nobody really wants to own the code enabling a CVE.
+
 The D language officially supports a so-called [`SafeD`](https://dlang.org/articles/safed.html) mode.
 Additional runtime checks are added to arrays/slices to avoid a whole heap of bugs (pun intended) as well
 as ongoing modernisation via the `DIP1000` effort to bring greater memory safety.

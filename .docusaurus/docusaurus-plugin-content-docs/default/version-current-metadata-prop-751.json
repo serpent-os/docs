@@ -76,25 +76,25 @@
     "developers/coding_style/basics": {
       "id": "developers/coding_style/basics",
       "title": "Basics",
-      "description": "Having a consistent coding style is important for any project, especially with Serpent OS having a large codebase and numerous user facing tools.",
+      "description": "Without a consistent codestyle, say goodbye to quick reviews.",
       "sidebar": "devSidebar"
     },
     "developers/coding_style/exceptions": {
       "id": "developers/coding_style/exceptions",
       "title": "Exception handling",
-      "description": "Earlier in the project history, our code diverged significantly from the D standard library in how we handled runtime exceptions.",
+      "description": "Without proper exception handling, expect a lot of bug reports.",
       "sidebar": "devSidebar"
     },
     "developers/coding_style/safe_d": {
       "id": "developers/coding_style/safe_d",
       "title": "@safe D",
-      "description": "The D language officially supports a so-called SafeD mode.",
+      "description": "Let's face it. Nobody really wants to own the code enabling a CVE.",
       "sidebar": "devSidebar"
     },
     "developers/coding_style/short_and_sweet": {
       "id": "developers/coding_style/short_and_sweet",
       "title": "Short and sweet",
-      "description": "We prefer to keep code short, elegant and easy to follow. Remember, Don't Repeat Yourself!",
+      "description": "Nobody wants to read functions so long that they'd scare a printer.",
       "sidebar": "devSidebar"
     },
     "developers/intro": {

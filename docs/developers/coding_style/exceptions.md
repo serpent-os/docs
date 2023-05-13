@@ -1,5 +1,7 @@
 # Exception handling
 
+Without proper exception handling, expect a lot of bug reports.
+
 :::caution
 
 Earlier in the project history, our code diverged significantly from the D standard library in how we handled runtime exceptions.

@@ -1,5 +1,7 @@
 # Short and sweet
 
+Nobody wants to read functions so long that they'd scare a printer.
+
 We prefer to keep code short, elegant and easy to follow. Remember, [Don't Repeat Yourself!](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 Try to keep code blocks reusable, and if you find you've reached a level of indentation representing hadouken... it's probably a bug.
 

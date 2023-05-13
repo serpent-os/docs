@@ -1,6 +1,6 @@
 # Basics
 
-Having a consistent coding style is important for any project, especially with Serpent OS having a large codebase and numerous user facing tools.
+Without a consistent codestyle, say goodbye to quick reviews.
 
 ## Integration of serpent-style
 

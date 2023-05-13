@@ -2,7 +2,7 @@
   "unversionedId": "developers/coding_style/exceptions",
   "id": "developers/coding_style/exceptions",
   "title": "Exception handling",
-  "description": "Earlier in the project history, our code diverged significantly from the D standard library in how we handled runtime exceptions.",
+  "description": "Without proper exception handling, expect a lot of bug reports.",
   "source": "@site/docs/developers/coding_style/exceptions.md",
   "sourceDirName": "developers/coding_style",
   "slug": "/developers/coding_style/exceptions",
