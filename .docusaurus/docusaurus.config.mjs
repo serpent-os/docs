@@ -36,7 +36,6 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "Serpent OS",
       "logo": {
