@@ -29,10 +29,6 @@ export default {
           "sidebarPath": "/home/ikey/serpent/docs/sidebars.js",
           "editUrl": "https://github.com/serpent-os/docs"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/serpent-os/docs/"
-        },
         "theme": {
           "customCss": "/home/ikey/serpent/docs/src/css/custom.css"
         }
@@ -65,16 +61,6 @@ export default {
           "sidebarId": "userSidebar",
           "position": "left",
           "label": "Users"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/serpent-os",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -111,10 +97,6 @@ export default {
         {
           "title": "More",
           "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
             {
               "label": "GitHub",
               "href": "https://github.com/serpent-os"

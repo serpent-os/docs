@@ -44,13 +44,6 @@ const config = {
           editUrl:
             'https://github.com/serpent-os/docs',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/serpent-os/docs/',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -87,12 +80,6 @@ const config = {
             position: 'left',
             label: 'Users',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/serpent-os',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -127,10 +114,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/serpent-os',
