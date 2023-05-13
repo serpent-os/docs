@@ -298,7 +298,9 @@ export default {
           }
         ]
       },
-      "additionalLanguages": [],
+      "additionalLanguages": [
+        "d"
+      ],
       "magicComments": [
         {
           "className": "theme-code-block-highlighted-line",
