@@ -1,7 +1,7 @@
 {
   "unversionedId": "users/intro",
   "id": "users/intro",
-  "title": "Users Intro",
+  "title": "Introduction",
   "description": "These docs are brand new and quite pathetic atm.",
   "source": "@site/docs/users/intro.md",
   "sourceDirName": "users",

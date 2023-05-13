@@ -1,7 +1,7 @@
 {
   "unversionedId": "packaging/intro",
   "id": "packaging/intro",
-  "title": "Packaging Intro",
+  "title": "Introduction",
   "description": "These docs are brand new and quite pathetic atm.",
   "source": "@site/docs/packaging/intro.md",
   "sourceDirName": "packaging",

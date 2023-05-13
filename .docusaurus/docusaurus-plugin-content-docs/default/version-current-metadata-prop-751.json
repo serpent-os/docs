@@ -11,7 +11,7 @@
     "devSidebar": [
       {
         "type": "link",
-        "label": "Developer Intro",
+        "label": "Introduction",
         "href": "/docs/developers/intro",
         "docId": "developers/intro"
       }
@@ -19,7 +19,7 @@
     "packageSidebar": [
       {
         "type": "link",
-        "label": "Packaging Intro",
+        "label": "Introduction",
         "href": "/docs/packaging/intro",
         "docId": "packaging/intro"
       },
@@ -33,7 +33,7 @@
     "userSidebar": [
       {
         "type": "link",
-        "label": "Users Intro",
+        "label": "Introduction",
         "href": "/docs/users/intro",
         "docId": "users/intro"
       }
@@ -42,7 +42,7 @@
   "docs": {
     "developers/intro": {
       "id": "developers/intro",
-      "title": "Developer Intro",
+      "title": "Introduction",
       "description": "These docs are brand new and quite pathetic atm.",
       "sidebar": "devSidebar"
     },
@@ -59,13 +59,13 @@
     },
     "packaging/intro": {
       "id": "packaging/intro",
-      "title": "Packaging Intro",
+      "title": "Introduction",
       "description": "These docs are brand new and quite pathetic atm.",
       "sidebar": "packageSidebar"
     },
     "users/intro": {
       "id": "users/intro",
-      "title": "Users Intro",
+      "title": "Introduction",
       "description": "These docs are brand new and quite pathetic atm.",
       "sidebar": "userSidebar"
     }

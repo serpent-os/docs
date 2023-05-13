@@ -1,4 +1,4 @@
-# Developer Intro
+# Introduction
 
 :::danger 
 
