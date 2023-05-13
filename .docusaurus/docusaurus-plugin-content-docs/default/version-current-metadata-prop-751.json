@@ -22,6 +22,12 @@
         "label": "Packaging Intro",
         "href": "/docs/packaging/intro",
         "docId": "packaging/intro"
+      },
+      {
+        "type": "link",
+        "label": "Boulder",
+        "href": "/docs/packaging/boulder",
+        "docId": "packaging/boulder"
       }
     ],
     "userSidebar": [
@@ -44,6 +50,12 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes."
+    },
+    "packaging/boulder": {
+      "id": "packaging/boulder",
+      "title": "Boulder",
+      "description": "boulder is the Serpent OS build tool, and used to build packages. Make sure you have the latest",
+      "sidebar": "packageSidebar"
     },
     "packaging/intro": {
       "id": "packaging/intro",

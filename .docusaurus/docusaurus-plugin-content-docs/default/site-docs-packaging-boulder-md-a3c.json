@@ -1,0 +1,23 @@
+{
+  "unversionedId": "packaging/boulder",
+  "id": "packaging/boulder",
+  "title": "Boulder",
+  "description": "boulder is the Serpent OS build tool, and used to build packages. Make sure you have the latest",
+  "source": "@site/docs/packaging/boulder.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/boulder",
+  "permalink": "/docs/packaging/boulder",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/docs/packaging/boulder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "packageSidebar",
+  "previous": {
+    "title": "Packaging Intro",
+    "permalink": "/docs/packaging/intro"
+  }
+}

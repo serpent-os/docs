@@ -20,6 +20,11 @@
               "path": "/docs/intro"
             },
             {
+              "id": "packaging/boulder",
+              "path": "/docs/packaging/boulder",
+              "sidebar": "packageSidebar"
+            },
+            {
               "id": "packaging/intro",
               "path": "/docs/packaging/intro",
               "sidebar": "packageSidebar"

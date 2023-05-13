@@ -11,6 +11,13 @@
   "editUrl": "https://github.com/serpent-os/docs/docs/packaging/intro.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "packageSidebar"
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "packageSidebar",
+  "next": {
+    "title": "Boulder",
+    "permalink": "/docs/packaging/boulder"
+  }
 }

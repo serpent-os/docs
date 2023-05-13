@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'fcd'),
+    component: ComponentCreator('/docs', 'b37'),
     routes: [
       {
         path: '/docs/developers/intro',
@@ -56,6 +56,12 @@ export default [
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'e84'),
         exact: true
+      },
+      {
+        path: '/docs/packaging/boulder',
+        component: ComponentCreator('/docs/packaging/boulder', 'f54'),
+        exact: true,
+        sidebar: "packageSidebar"
       },
       {
         path: '/docs/packaging/intro',
