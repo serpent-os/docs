@@ -1,0 +1,9 @@
+{
+    "label": "Recipes",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Recipes are at the heart of Serpent OS packaging"
+    }
+  }
+  
