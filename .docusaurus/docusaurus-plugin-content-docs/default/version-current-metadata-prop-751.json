@@ -37,7 +37,7 @@
     "developers/intro": {
       "id": "developers/intro",
       "title": "Developer Intro",
-      "description": "",
+      "description": "In Serpent OS, we rely heavily on the D programming language programming language,",
       "sidebar": "devSidebar"
     },
     "intro": {
