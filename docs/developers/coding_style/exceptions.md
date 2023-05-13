@@ -69,12 +69,6 @@ import std.conv : to;
 int n = "twelve".to!int.ifThrown(4);
 ```
 
-## Sane callsites
-
-We want to ideally handle all exceptions properly, and ensure that the `main()` method is marked
-as `nothrow` to ensure we have correctly handled all exceptions deeper within the code. It is
-generally a terrible user experience to have unhandled exceptions.
-
 ## Real errors.
 
 When an exception is recoverable, we should try to do so. In some cases catching these exceptions
