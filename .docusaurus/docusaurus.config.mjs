@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/ikey/serpent/docs/sidebars.js",
-          "editUrl": "https://github.com/serpent-os/docs"
+          "editUrl": "https://github.com/serpent-os/docs/tree/main"
         },
         "theme": {
           "customCss": "/home/ikey/serpent/docs/src/css/custom.css"
