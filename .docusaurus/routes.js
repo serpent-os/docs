@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a93'),
+    component: ComponentCreator('/docs', '904'),
     routes: [
       {
         path: '/docs/category/coding-style',
@@ -87,11 +87,6 @@ export default [
         component: ComponentCreator('/docs/developers/intro', '554'),
         exact: true,
         sidebar: "devSidebar"
-      },
-      {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'e84'),
-        exact: true
       },
       {
         path: '/docs/packaging/boulder',

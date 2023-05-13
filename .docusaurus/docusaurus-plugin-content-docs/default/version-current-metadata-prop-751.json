@@ -124,11 +124,6 @@
       "description": "In Serpent OS, we rely heavily on the D programming language,",
       "sidebar": "devSidebar"
     },
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes."
-    },
     "packaging/boulder": {
       "id": "packaging/boulder",
       "title": "Boulder",

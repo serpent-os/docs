@@ -36,10 +36,6 @@
               "sidebar": "devSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro"
-            },
-            {
               "id": "packaging/boulder",
               "path": "/docs/packaging/boulder",
               "sidebar": "packageSidebar"
