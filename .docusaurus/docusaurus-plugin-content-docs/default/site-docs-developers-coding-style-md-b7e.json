@@ -1,0 +1,20 @@
+{
+  "unversionedId": "developers/coding_style",
+  "id": "developers/coding_style",
+  "title": "coding_style",
+  "description": "Use of @safe D",
+  "source": "@site/docs/developers/coding_style.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/coding_style",
+  "permalink": "/docs/developers/coding_style",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Short and sweet",
+    "permalink": "/docs/developers/coding_style/short_and_sweet"
+  }
+}

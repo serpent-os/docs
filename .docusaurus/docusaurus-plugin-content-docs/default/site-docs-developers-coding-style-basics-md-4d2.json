@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developers/coding_style/basics",
+  "id": "developers/coding_style/basics",
+  "title": "Basics",
+  "description": "Earlier in our development we pursued the use of monadic return types, attempted the elimination of EH and eventually settled on an idiomatic pattern that works for us.",
+  "source": "@site/docs/developers/coding_style/basics.md",
+  "sourceDirName": "developers/coding_style",
+  "slug": "/developers/coding_style/basics",
+  "permalink": "/docs/developers/coding_style/basics",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Coding Style",
+    "permalink": "/docs/category/coding-style"
+  },
+  "next": {
+    "title": "Exception handling",
+    "permalink": "/docs/developers/coding_style/exceptions"
+  }
+}

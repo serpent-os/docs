@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developers/coding_style/exceptions",
+  "id": "developers/coding_style/exceptions",
+  "title": "Exception handling",
+  "description": "Earlier in the project history, our code diverged significantly from the D standard library in how we handled runtime exceptions.",
+  "source": "@site/docs/developers/coding_style/exceptions.md",
+  "sourceDirName": "developers/coding_style",
+  "slug": "/developers/coding_style/exceptions",
+  "permalink": "/docs/developers/coding_style/exceptions",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/exceptions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/docs/developers/coding_style/basics"
+  },
+  "next": {
+    "title": "@safe D",
+    "permalink": "/docs/developers/coding_style/safe_d"
+  }
+}

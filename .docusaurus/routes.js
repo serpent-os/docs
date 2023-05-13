@@ -44,8 +44,38 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b37'),
+    component: ComponentCreator('/docs', '4d2'),
     routes: [
+      {
+        path: '/docs/category/coding-style',
+        component: ComponentCreator('/docs/category/coding-style', 'c98'),
+        exact: true,
+        sidebar: "devSidebar"
+      },
+      {
+        path: '/docs/developers/coding_style/basics',
+        component: ComponentCreator('/docs/developers/coding_style/basics', '718'),
+        exact: true,
+        sidebar: "devSidebar"
+      },
+      {
+        path: '/docs/developers/coding_style/exceptions',
+        component: ComponentCreator('/docs/developers/coding_style/exceptions', 'cfe'),
+        exact: true,
+        sidebar: "devSidebar"
+      },
+      {
+        path: '/docs/developers/coding_style/safe_d',
+        component: ComponentCreator('/docs/developers/coding_style/safe_d', '7ba'),
+        exact: true,
+        sidebar: "devSidebar"
+      },
+      {
+        path: '/docs/developers/coding_style/short_and_sweet',
+        component: ComponentCreator('/docs/developers/coding_style/short_and_sweet', 'f33'),
+        exact: true,
+        sidebar: "devSidebar"
+      },
       {
         path: '/docs/developers/intro',
         component: ComponentCreator('/docs/developers/intro', '554'),

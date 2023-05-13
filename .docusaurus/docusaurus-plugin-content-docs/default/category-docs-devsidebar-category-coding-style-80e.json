@@ -1,0 +1,16 @@
+{
+  "title": "Coding Style",
+  "description": "Coding Style within Serpent OS",
+  "slug": "/category/coding-style",
+  "permalink": "/docs/category/coding-style",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/developers/intro"
+    },
+    "next": {
+      "title": "Basics",
+      "permalink": "/docs/developers/coding_style/basics"
+    }
+  }
+}

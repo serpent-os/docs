@@ -1,0 +1,24 @@
+{
+  "unversionedId": "developers/coding_style/safe_d",
+  "id": "developers/coding_style/safe_d",
+  "title": "@safe D",
+  "description": "The D language officially supports a so-called SafeD mode.",
+  "source": "@site/docs/developers/coding_style/safe_d.md",
+  "sourceDirName": "developers/coding_style",
+  "slug": "/developers/coding_style/safe_d",
+  "permalink": "/docs/developers/coding_style/safe_d",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/safe_d.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Exception handling",
+    "permalink": "/docs/developers/coding_style/exceptions"
+  },
+  "next": {
+    "title": "Short and sweet",
+    "permalink": "/docs/developers/coding_style/short_and_sweet"
+  }
+}

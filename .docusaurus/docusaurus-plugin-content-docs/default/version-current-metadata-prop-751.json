@@ -14,6 +14,39 @@
         "label": "Introduction",
         "href": "/docs/developers/intro",
         "docId": "developers/intro"
+      },
+      {
+        "type": "category",
+        "label": "Coding Style",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Basics",
+            "href": "/docs/developers/coding_style/basics",
+            "docId": "developers/coding_style/basics"
+          },
+          {
+            "type": "link",
+            "label": "Exception handling",
+            "href": "/docs/developers/coding_style/exceptions",
+            "docId": "developers/coding_style/exceptions"
+          },
+          {
+            "type": "link",
+            "label": "@safe D",
+            "href": "/docs/developers/coding_style/safe_d",
+            "docId": "developers/coding_style/safe_d"
+          },
+          {
+            "type": "link",
+            "label": "Short and sweet",
+            "href": "/docs/developers/coding_style/short_and_sweet",
+            "docId": "developers/coding_style/short_and_sweet"
+          }
+        ],
+        "href": "/docs/category/coding-style"
       }
     ],
     "packageSidebar": [
@@ -40,6 +73,30 @@
     ]
   },
   "docs": {
+    "developers/coding_style/basics": {
+      "id": "developers/coding_style/basics",
+      "title": "Basics",
+      "description": "Earlier in our development we pursued the use of monadic return types, attempted the elimination of EH and eventually settled on an idiomatic pattern that works for us.",
+      "sidebar": "devSidebar"
+    },
+    "developers/coding_style/exceptions": {
+      "id": "developers/coding_style/exceptions",
+      "title": "Exception handling",
+      "description": "Earlier in the project history, our code diverged significantly from the D standard library in how we handled runtime exceptions.",
+      "sidebar": "devSidebar"
+    },
+    "developers/coding_style/safe_d": {
+      "id": "developers/coding_style/safe_d",
+      "title": "@safe D",
+      "description": "The D language officially supports a so-called SafeD mode.",
+      "sidebar": "devSidebar"
+    },
+    "developers/coding_style/short_and_sweet": {
+      "id": "developers/coding_style/short_and_sweet",
+      "title": "Short and sweet",
+      "description": "We prefer to keep code short, elegant and easy to follow.",
+      "sidebar": "devSidebar"
+    },
     "developers/intro": {
       "id": "developers/intro",
       "title": "Introduction",

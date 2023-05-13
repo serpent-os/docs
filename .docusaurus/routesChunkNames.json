@@ -49,12 +49,32 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-b37": {
+  "/docs-4d2": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-13-c-7c1"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/coding-style-c98": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-coding-stylef-1-d-c13"
+  },
+  "/docs/developers/coding_style/basics-718": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developers-coding-style-basics-4-d-2-184"
+  },
+  "/docs/developers/coding_style/exceptions-cfe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developers-coding-style-exceptionsf-1-e-5f7"
+  },
+  "/docs/developers/coding_style/safe_d-7ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developers-coding-style-safe-d-681-1db"
+  },
+  "/docs/developers/coding_style/short_and_sweet-f33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developers-coding-style-short-and-sweet-664-7fa"
   },
   "/docs/developers/intro-554": {
     "__comp": "__comp---theme-doc-item-178-a40",

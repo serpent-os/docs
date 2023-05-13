@@ -20,6 +20,98 @@
           "contentPathLocalized": "/home/ikey/serpent/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "developers/coding_style/basics",
+              "id": "developers/coding_style/basics",
+              "title": "Basics",
+              "description": "Earlier in our development we pursued the use of monadic return types, attempted the elimination of EH and eventually settled on an idiomatic pattern that works for us.",
+              "source": "@site/docs/developers/coding_style/basics.md",
+              "sourceDirName": "developers/coding_style",
+              "slug": "/developers/coding_style/basics",
+              "permalink": "/docs/developers/coding_style/basics",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/basics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "devSidebar",
+              "previous": {
+                "title": "Coding Style",
+                "permalink": "/docs/category/coding-style"
+              },
+              "next": {
+                "title": "Exception handling",
+                "permalink": "/docs/developers/coding_style/exceptions"
+              }
+            },
+            {
+              "unversionedId": "developers/coding_style/exceptions",
+              "id": "developers/coding_style/exceptions",
+              "title": "Exception handling",
+              "description": "Earlier in the project history, our code diverged significantly from the D standard library in how we handled runtime exceptions.",
+              "source": "@site/docs/developers/coding_style/exceptions.md",
+              "sourceDirName": "developers/coding_style",
+              "slug": "/developers/coding_style/exceptions",
+              "permalink": "/docs/developers/coding_style/exceptions",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/exceptions.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "devSidebar",
+              "previous": {
+                "title": "Basics",
+                "permalink": "/docs/developers/coding_style/basics"
+              },
+              "next": {
+                "title": "@safe D",
+                "permalink": "/docs/developers/coding_style/safe_d"
+              }
+            },
+            {
+              "unversionedId": "developers/coding_style/safe_d",
+              "id": "developers/coding_style/safe_d",
+              "title": "@safe D",
+              "description": "The D language officially supports a so-called SafeD mode.",
+              "source": "@site/docs/developers/coding_style/safe_d.md",
+              "sourceDirName": "developers/coding_style",
+              "slug": "/developers/coding_style/safe_d",
+              "permalink": "/docs/developers/coding_style/safe_d",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/safe_d.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "devSidebar",
+              "previous": {
+                "title": "Exception handling",
+                "permalink": "/docs/developers/coding_style/exceptions"
+              },
+              "next": {
+                "title": "Short and sweet",
+                "permalink": "/docs/developers/coding_style/short_and_sweet"
+              }
+            },
+            {
+              "unversionedId": "developers/coding_style/short_and_sweet",
+              "id": "developers/coding_style/short_and_sweet",
+              "title": "Short and sweet",
+              "description": "We prefer to keep code short, elegant and easy to follow.",
+              "source": "@site/docs/developers/coding_style/short_and_sweet.md",
+              "sourceDirName": "developers/coding_style",
+              "slug": "/developers/coding_style/short_and_sweet",
+              "permalink": "/docs/developers/coding_style/short_and_sweet",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/short_and_sweet.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "devSidebar",
+              "previous": {
+                "title": "@safe D",
+                "permalink": "/docs/developers/coding_style/safe_d"
+              }
+            },
+            {
               "unversionedId": "developers/intro",
               "id": "developers/intro",
               "title": "Introduction",
@@ -32,8 +124,15 @@
               "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/intro.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
-              "sidebar": "devSidebar"
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "devSidebar",
+              "next": {
+                "title": "Coding Style",
+                "permalink": "/docs/category/coding-style"
+              }
             },
             {
               "unversionedId": "intro",
@@ -122,6 +221,36 @@
               {
                 "type": "doc",
                 "id": "developers/intro"
+              },
+              {
+                "type": "category",
+                "label": "Coding Style",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "developers/coding_style/basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "developers/coding_style/exceptions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "developers/coding_style/safe_d"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "developers/coding_style/short_and_sweet"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Coding Style within Serpent OS",
+                  "slug": "/category/coding-style",
+                  "permalink": "/docs/category/coding-style"
+                }
               }
             ],
             "packageSidebar": [

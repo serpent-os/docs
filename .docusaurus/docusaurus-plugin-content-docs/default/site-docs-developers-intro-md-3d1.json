@@ -11,6 +11,13 @@
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/intro.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "devSidebar"
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "devSidebar",
+  "next": {
+    "title": "Coding Style",
+    "permalink": "/docs/category/coding-style"
+  }
 }
