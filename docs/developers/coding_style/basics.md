@@ -1,14 +1,5 @@
 # Basics
 
-:::caution
-
-Earlier in our development we pursued the use of monadic return types, attempted the elimination of EH and eventually settled on an idiomatic pattern that works for us.
-
-Some of the information shown may not be representative of the current code on GitHub.
-
-:::
-
-
 Having a consistent coding style is important for any project, especially with Serpent OS having a large codebase and numerous user facing tools.
 
 ## Integration of serpent-style
