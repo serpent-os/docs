@@ -37,7 +37,7 @@
     "developers/intro": {
       "id": "developers/intro",
       "title": "Developer Intro",
-      "description": "In Serpent OS, we rely heavily on the D programming language programming language,",
+      "description": "These docs are brand new and quite pathetic atm.",
       "sidebar": "devSidebar"
     },
     "intro": {
@@ -48,13 +48,13 @@
     "packaging/intro": {
       "id": "packaging/intro",
       "title": "Packaging Intro",
-      "description": "",
+      "description": "These docs are brand new and quite pathetic atm.",
       "sidebar": "packageSidebar"
     },
     "users/intro": {
       "id": "users/intro",
       "title": "Users Intro",
-      "description": "",
+      "description": "These docs are brand new and quite pathetic atm.",
       "sidebar": "userSidebar"
     }
   }
