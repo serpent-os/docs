@@ -1,0 +1,9 @@
+{
+    "label": "Developer Documentation",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Help develop the next generation tooling for Serpent OS"
+    }
+  }
+  

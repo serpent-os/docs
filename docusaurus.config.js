@@ -72,9 +72,20 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'devSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Developers',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'packageSidebar',
+            position: 'left',
+            label: 'Packaging',
+          },          {
+            type: 'docSidebar',
+            sidebarId: 'userSidebar',
+            position: 'left',
+            label: 'Users',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {

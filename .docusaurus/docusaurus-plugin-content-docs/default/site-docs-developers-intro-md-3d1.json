@@ -1,0 +1,16 @@
+{
+  "unversionedId": "developers/intro",
+  "id": "developers/intro",
+  "title": "Developer Intro",
+  "description": "",
+  "source": "@site/docs/developers/intro.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/intro",
+  "permalink": "/docs/developers/intro",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/docs/developers/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devSidebar"
+}

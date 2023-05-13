@@ -1,0 +1,16 @@
+{
+  "unversionedId": "users/intro",
+  "id": "users/intro",
+  "title": "Users Intro",
+  "description": "",
+  "source": "@site/docs/users/intro.md",
+  "sourceDirName": "users",
+  "slug": "/users/intro",
+  "permalink": "/docs/users/intro",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/docs/users/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "userSidebar"
+}

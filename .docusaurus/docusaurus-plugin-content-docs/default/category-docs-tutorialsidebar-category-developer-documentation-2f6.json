@@ -1,0 +1,12 @@
+{
+  "title": "Developer Documentation",
+  "description": "Help develop the next generation tooling for Serpent OS",
+  "slug": "/category/developer-documentation",
+  "permalink": "/docs/category/developer-documentation",
+  "navigation": {
+    "next": {
+      "title": "Getting started",
+      "permalink": "/docs/developers/getting-started"
+    }
+  }
+}

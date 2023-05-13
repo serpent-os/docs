@@ -1,0 +1,16 @@
+{
+  "unversionedId": "developers/getting-started",
+  "id": "developers/getting-started",
+  "title": "Getting started",
+  "description": "Getting started on Serpent OS",
+  "source": "@site/docs/developers/getting-started.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/getting-started",
+  "permalink": "/docs/developers/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/docs/developers/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devSidebar"
+}

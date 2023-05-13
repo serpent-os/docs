@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/code.svg').default,
     description: (
       <>
-        How to develop Serpent OS
+        Learn how to develop tooling and solutions for Serpent OS
       </>
     ),
     link: '',
@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/package.svg').default,
     description: (
       <>
-        How to build packages for Serpent OS
+        Get to grips with our advanced packaging features using easy to follow guides
       </>
     ),
     link: '',
@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/user.svg').default,
     description: (
       <>
-        Documentation on how to use Serpent OS
+        Need to know how something works? You've come to the right place.
       </>
     ),
     link: '',

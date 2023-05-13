@@ -1,0 +1,16 @@
+{
+  "unversionedId": "packaging/intro",
+  "id": "packaging/intro",
+  "title": "Packaging Intro",
+  "description": "",
+  "source": "@site/docs/packaging/intro.md",
+  "sourceDirName": "packaging",
+  "slug": "/packaging/intro",
+  "permalink": "/docs/packaging/intro",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/docs/packaging/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "packageSidebar"
+}
