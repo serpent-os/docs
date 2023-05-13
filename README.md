@@ -18,4 +18,8 @@ $ yarn start
 
 In progress documentation for Serpent OS.
 
-Using Docusaurus.
+Built using Docusaurus.
+
+## Test locally
+
+`npm start`
