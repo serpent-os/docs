@@ -173,6 +173,10 @@
               "previous": {
                 "title": "Introduction",
                 "permalink": "/docs/packaging/intro"
+              },
+              "next": {
+                "title": "Recipes",
+                "permalink": "/docs/category/recipes"
               }
             },
             {
@@ -196,6 +200,56 @@
               "next": {
                 "title": "Boulder",
                 "permalink": "/docs/packaging/boulder"
+              }
+            },
+            {
+              "unversionedId": "packaging/recipes/overview",
+              "id": "packaging/recipes/overview",
+              "title": "Overview",
+              "description": "Simply put, a recipe is some metadata to describe a software package, and the associated instructions required to build that package in a reproducible fashion. Doing so allows us to automate builds, and provide software updates. At a surface level, our stone.yml recipe format",
+              "source": "@site/docs/packaging/recipes/overview.md",
+              "sourceDirName": "packaging/recipes",
+              "slug": "/packaging/recipes/overview",
+              "permalink": "/docs/packaging/recipes/overview",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Recipes",
+                "permalink": "/docs/category/recipes"
+              },
+              "next": {
+                "title": "Upstreams",
+                "permalink": "/docs/packaging/recipes/upstreams"
+              }
+            },
+            {
+              "unversionedId": "packaging/recipes/upstreams",
+              "id": "packaging/recipes/upstreams",
+              "title": "Upstreams",
+              "description": "The majority of packages are built using upstream release sources. While it is possible to create packages manually from local assets, the bulk of packages take an upstream tarball and build it.",
+              "source": "@site/docs/packaging/recipes/upstreams.md",
+              "sourceDirName": "packaging/recipes",
+              "slug": "/packaging/recipes/upstreams",
+              "permalink": "/docs/packaging/recipes/upstreams",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/upstreams.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/packaging/recipes/overview"
               }
             },
             {
@@ -261,6 +315,28 @@
               {
                 "type": "doc",
                 "id": "packaging/boulder"
+              },
+              {
+                "type": "category",
+                "label": "Recipes",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "packaging/recipes/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "packaging/recipes/upstreams"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Recipes are at the heart of Serpent OS packaging",
+                  "slug": "/category/recipes",
+                  "permalink": "/docs/category/recipes"
+                }
               }
             ],
             "userSidebar": [

@@ -44,13 +44,19 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4d2'),
+    component: ComponentCreator('/docs', 'a93'),
     routes: [
       {
         path: '/docs/category/coding-style',
         component: ComponentCreator('/docs/category/coding-style', 'c98'),
         exact: true,
         sidebar: "devSidebar"
+      },
+      {
+        path: '/docs/category/recipes',
+        component: ComponentCreator('/docs/category/recipes', 'b62'),
+        exact: true,
+        sidebar: "packageSidebar"
       },
       {
         path: '/docs/developers/coding_style/basics',
@@ -96,6 +102,18 @@ export default [
       {
         path: '/docs/packaging/intro',
         component: ComponentCreator('/docs/packaging/intro', 'a33'),
+        exact: true,
+        sidebar: "packageSidebar"
+      },
+      {
+        path: '/docs/packaging/recipes/overview',
+        component: ComponentCreator('/docs/packaging/recipes/overview', 'be3'),
+        exact: true,
+        sidebar: "packageSidebar"
+      },
+      {
+        path: '/docs/packaging/recipes/upstreams',
+        component: ComponentCreator('/docs/packaging/recipes/upstreams', 'e2a'),
         exact: true,
         sidebar: "packageSidebar"
       },

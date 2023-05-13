@@ -19,5 +19,9 @@
   "previous": {
     "title": "Introduction",
     "permalink": "/docs/packaging/intro"
+  },
+  "next": {
+    "title": "Recipes",
+    "permalink": "/docs/category/recipes"
   }
 }

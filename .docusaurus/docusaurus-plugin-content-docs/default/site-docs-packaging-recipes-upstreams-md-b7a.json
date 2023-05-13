@@ -1,0 +1,23 @@
+{
+  "unversionedId": "packaging/recipes/upstreams",
+  "id": "packaging/recipes/upstreams",
+  "title": "Upstreams",
+  "description": "The majority of packages are built using upstream release sources. While it is possible to create packages manually from local assets, the bulk of packages take an upstream tarball and build it.",
+  "source": "@site/docs/packaging/recipes/upstreams.md",
+  "sourceDirName": "packaging/recipes",
+  "slug": "/packaging/recipes/upstreams",
+  "permalink": "/docs/packaging/recipes/upstreams",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/upstreams.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "packageSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/packaging/recipes/overview"
+  }
+}

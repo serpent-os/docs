@@ -61,6 +61,27 @@
         "label": "Boulder",
         "href": "/docs/packaging/boulder",
         "docId": "packaging/boulder"
+      },
+      {
+        "type": "category",
+        "label": "Recipes",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/packaging/recipes/overview",
+            "docId": "packaging/recipes/overview"
+          },
+          {
+            "type": "link",
+            "label": "Upstreams",
+            "href": "/docs/packaging/recipes/upstreams",
+            "docId": "packaging/recipes/upstreams"
+          }
+        ],
+        "href": "/docs/category/recipes"
       }
     ],
     "userSidebar": [
@@ -118,6 +139,18 @@
       "id": "packaging/intro",
       "title": "Introduction",
       "description": "These docs are brand new and quite pathetic atm.",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/recipes/overview": {
+      "id": "packaging/recipes/overview",
+      "title": "Overview",
+      "description": "Simply put, a recipe is some metadata to describe a software package, and the associated instructions required to build that package in a reproducible fashion. Doing so allows us to automate builds, and provide software updates. At a surface level, our stone.yml recipe format",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/recipes/upstreams": {
+      "id": "packaging/recipes/upstreams",
+      "title": "Upstreams",
+      "description": "The majority of packages are built using upstream release sources. While it is possible to create packages manually from local assets, the bulk of packages take an upstream tarball and build it.",
       "sidebar": "packageSidebar"
     },
     "users/intro": {

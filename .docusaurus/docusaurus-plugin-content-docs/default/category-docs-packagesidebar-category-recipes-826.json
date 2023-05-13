@@ -1,0 +1,16 @@
+{
+  "title": "Recipes",
+  "description": "Recipes are at the heart of Serpent OS packaging",
+  "slug": "/category/recipes",
+  "permalink": "/docs/category/recipes",
+  "navigation": {
+    "previous": {
+      "title": "Boulder",
+      "permalink": "/docs/packaging/boulder"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/packaging/recipes/overview"
+    }
+  }
+}

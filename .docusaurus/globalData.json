@@ -50,6 +50,16 @@
               "sidebar": "packageSidebar"
             },
             {
+              "id": "packaging/recipes/overview",
+              "path": "/docs/packaging/recipes/overview",
+              "sidebar": "packageSidebar"
+            },
+            {
+              "id": "packaging/recipes/upstreams",
+              "path": "/docs/packaging/recipes/upstreams",
+              "sidebar": "packageSidebar"
+            },
+            {
               "id": "users/intro",
               "path": "/docs/users/intro",
               "sidebar": "userSidebar"
@@ -58,6 +68,11 @@
               "id": "/category/coding-style",
               "path": "/docs/category/coding-style",
               "sidebar": "devSidebar"
+            },
+            {
+              "id": "/category/recipes",
+              "path": "/docs/category/recipes",
+              "sidebar": "packageSidebar"
             }
           ],
           "draftIds": [],
