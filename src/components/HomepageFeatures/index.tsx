@@ -19,7 +19,7 @@ const FeatureList: FeatureItem[] = [
         Learn how to develop tooling and solutions for Serpent OS
       </>
     ),
-    link: '',
+    link: 'docs/developers/intro',
   },
   {
     title: 'Packagers',
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
         Get to grips with our advanced packaging features using easy to follow guides
       </>
     ),
-    link: '',
+    link: 'docs/packaging/intro',
   },
   {
     title: 'Users',
@@ -39,7 +39,7 @@ const FeatureList: FeatureItem[] = [
         Need to know how something works? You've come to the right place.
       </>
     ),
-    link: '',
+    link: 'docs/users/intro',
   },
 ];
 
