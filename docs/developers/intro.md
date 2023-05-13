@@ -7,7 +7,7 @@ sidebar_position: 1
 In Serpent OS, we rely heavily on the [D programming language](https://dlang.org),
 and all of our tooling is developed publicly in our primary [GitHub space](https://github.com/serpent-os)
 
-## What is D
+## What is D?
 
 D is a programming language that permits a number of development styles, and has been around since 2001.
 In recent years, the project has changed pace and begun to take on modern challenges such as memory safety
@@ -20,7 +20,7 @@ we need to tweak the performance (i.e. contiguous memory).
 
 This allows the best approach in terms of productivity, safety and targetted performance.
 
-### Obtaining D
+### Installing a compiler
 
 If you're using a Linux distribution other than Serpent OS or Solus, it is recommended to use the official
 build of `ldc2` from dlang.org.
