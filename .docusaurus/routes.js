@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '904'),
+    component: ComponentCreator('/docs', 'a22'),
     routes: [
       {
         path: '/docs/category/coding-style',
@@ -89,6 +89,11 @@ export default [
         sidebar: "devSidebar"
       },
       {
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro', 'e84'),
+        exact: true
+      },
+      {
         path: '/docs/packaging/boulder',
         component: ComponentCreator('/docs/packaging/boulder', 'f54'),
         exact: true,
@@ -101,8 +106,26 @@ export default [
         sidebar: "packageSidebar"
       },
       {
+        path: '/docs/packaging/recipes/build_deps',
+        component: ComponentCreator('/docs/packaging/recipes/build_deps', '549'),
+        exact: true,
+        sidebar: "packageSidebar"
+      },
+      {
+        path: '/docs/packaging/recipes/metadata',
+        component: ComponentCreator('/docs/packaging/recipes/metadata', 'c27'),
+        exact: true,
+        sidebar: "packageSidebar"
+      },
+      {
         path: '/docs/packaging/recipes/overview',
         component: ComponentCreator('/docs/packaging/recipes/overview', 'be3'),
+        exact: true,
+        sidebar: "packageSidebar"
+      },
+      {
+        path: '/docs/packaging/recipes/package_definition',
+        component: ComponentCreator('/docs/packaging/recipes/package_definition', 'dff'),
         exact: true,
         sidebar: "packageSidebar"
       },

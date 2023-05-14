@@ -36,6 +36,10 @@
               "sidebar": "devSidebar"
             },
             {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
               "id": "packaging/boulder",
               "path": "/docs/packaging/boulder",
               "sidebar": "packageSidebar"
@@ -46,8 +50,23 @@
               "sidebar": "packageSidebar"
             },
             {
+              "id": "packaging/recipes/build_deps",
+              "path": "/docs/packaging/recipes/build_deps",
+              "sidebar": "packageSidebar"
+            },
+            {
+              "id": "packaging/recipes/metadata",
+              "path": "/docs/packaging/recipes/metadata",
+              "sidebar": "packageSidebar"
+            },
+            {
               "id": "packaging/recipes/overview",
               "path": "/docs/packaging/recipes/overview",
+              "sidebar": "packageSidebar"
+            },
+            {
+              "id": "packaging/recipes/package_definition",
+              "path": "/docs/packaging/recipes/package_definition",
               "sidebar": "packageSidebar"
             },
             {

@@ -135,6 +135,21 @@
               }
             },
             {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
               "unversionedId": "packaging/boulder",
               "id": "packaging/boulder",
               "title": "Boulder",
@@ -185,6 +200,60 @@
               }
             },
             {
+              "unversionedId": "packaging/recipes/build_deps",
+              "id": "packaging/recipes/build_deps",
+              "title": "Build dependencies",
+              "description": "Every build of a recipe by boulder will create an entirely new root, with only the absolute minimum support dependencies in place.",
+              "source": "@site/docs/packaging/recipes/build_deps.md",
+              "sourceDirName": "packaging/recipes",
+              "slug": "/packaging/recipes/build_deps",
+              "permalink": "/docs/packaging/recipes/build_deps",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/build_deps.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Metadata",
+                "permalink": "/docs/packaging/recipes/metadata"
+              },
+              "next": {
+                "title": "Package definitions",
+                "permalink": "/docs/packaging/recipes/package_definition"
+              }
+            },
+            {
+              "unversionedId": "packaging/recipes/metadata",
+              "id": "packaging/recipes/metadata",
+              "title": "Metadata",
+              "description": "Recipes provide basic metadata to support discovery and automation.",
+              "source": "@site/docs/packaging/recipes/metadata.md",
+              "sourceDirName": "packaging/recipes",
+              "slug": "/packaging/recipes/metadata",
+              "permalink": "/docs/packaging/recipes/metadata",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/metadata.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Upstreams",
+                "permalink": "/docs/packaging/recipes/upstreams"
+              },
+              "next": {
+                "title": "Build dependencies",
+                "permalink": "/docs/packaging/recipes/build_deps"
+              }
+            },
+            {
               "unversionedId": "packaging/recipes/overview",
               "id": "packaging/recipes/overview",
               "title": "Overview",
@@ -212,6 +281,29 @@
               }
             },
             {
+              "unversionedId": "packaging/recipes/package_definition",
+              "id": "packaging/recipes/package_definition",
+              "title": "Package definitions",
+              "description": "A recipe build can result in a number of packages being produced from a single source, through an automatic splitting system. Certain subpackages are already defined in the boulder project to ensure consistency of package splitting and names, whereas some may be explicitly defined in a recipe to fine-tune the results.",
+              "source": "@site/docs/packaging/recipes/package_definition.md",
+              "sourceDirName": "packaging/recipes",
+              "slug": "/packaging/recipes/package_definition",
+              "permalink": "/docs/packaging/recipes/package_definition",
+              "draft": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/package_definition.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Build dependencies",
+                "permalink": "/docs/packaging/recipes/build_deps"
+              }
+            },
+            {
               "unversionedId": "packaging/recipes/upstreams",
               "id": "packaging/recipes/upstreams",
               "title": "Upstreams",
@@ -232,6 +324,10 @@
               "previous": {
                 "title": "Overview",
                 "permalink": "/docs/packaging/recipes/overview"
+              },
+              "next": {
+                "title": "Metadata",
+                "permalink": "/docs/packaging/recipes/metadata"
               }
             },
             {
@@ -311,6 +407,18 @@
                   {
                     "type": "doc",
                     "id": "packaging/recipes/upstreams"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "packaging/recipes/metadata"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "packaging/recipes/build_deps"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "packaging/recipes/package_definition"
                   }
                 ],
                 "link": {

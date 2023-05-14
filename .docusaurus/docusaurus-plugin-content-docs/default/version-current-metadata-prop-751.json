@@ -79,6 +79,24 @@
             "label": "Upstreams",
             "href": "/docs/packaging/recipes/upstreams",
             "docId": "packaging/recipes/upstreams"
+          },
+          {
+            "type": "link",
+            "label": "Metadata",
+            "href": "/docs/packaging/recipes/metadata",
+            "docId": "packaging/recipes/metadata"
+          },
+          {
+            "type": "link",
+            "label": "Build dependencies",
+            "href": "/docs/packaging/recipes/build_deps",
+            "docId": "packaging/recipes/build_deps"
+          },
+          {
+            "type": "link",
+            "label": "Package definitions",
+            "href": "/docs/packaging/recipes/package_definition",
+            "docId": "packaging/recipes/package_definition"
           }
         ],
         "href": "/docs/category/recipes"
@@ -124,6 +142,11 @@
       "description": "In Serpent OS, we rely heavily on the D programming language,",
       "sidebar": "devSidebar"
     },
+    "intro": {
+      "id": "intro",
+      "title": "intro",
+      "description": ""
+    },
     "packaging/boulder": {
       "id": "packaging/boulder",
       "title": "Boulder",
@@ -136,10 +159,28 @@
       "description": "These docs are brand new and quite pathetic atm.",
       "sidebar": "packageSidebar"
     },
+    "packaging/recipes/build_deps": {
+      "id": "packaging/recipes/build_deps",
+      "title": "Build dependencies",
+      "description": "Every build of a recipe by boulder will create an entirely new root, with only the absolute minimum support dependencies in place.",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/recipes/metadata": {
+      "id": "packaging/recipes/metadata",
+      "title": "Metadata",
+      "description": "Recipes provide basic metadata to support discovery and automation.",
+      "sidebar": "packageSidebar"
+    },
     "packaging/recipes/overview": {
       "id": "packaging/recipes/overview",
       "title": "Overview",
       "description": "Simply put, a recipe is some metadata to describe a software package, and the associated instructions required to build that package in a reproducible fashion. Doing so allows us to automate builds, and provide software updates. At a surface level, our stone.yml recipe format",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/recipes/package_definition": {
+      "id": "packaging/recipes/package_definition",
+      "title": "Package definitions",
+      "description": "A recipe build can result in a number of packages being produced from a single source, through an automatic splitting system. Certain subpackages are already defined in the boulder project to ensure consistency of package splitting and names, whereas some may be explicitly defined in a recipe to fine-tune the results.",
       "sidebar": "packageSidebar"
     },
     "packaging/recipes/upstreams": {

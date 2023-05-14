@@ -49,7 +49,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-904": {
+  "/docs-a22": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-13-c-7c1"
@@ -84,6 +84,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-developers-intro-3-d-1-930"
   },
+  "/docs/intro-e84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
   "/docs/packaging/boulder-f54": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-packaging-bouldera-3-c-08d"
@@ -92,9 +96,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-packaging-introf-69-94b"
   },
+  "/docs/packaging/recipes/build_deps-549": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-packaging-recipes-build-deps-7-d-3-cbd"
+  },
+  "/docs/packaging/recipes/metadata-c27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-packaging-recipes-metadata-2-c-1-0bf"
+  },
   "/docs/packaging/recipes/overview-be3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-packaging-recipes-overview-344-1e0"
+  },
+  "/docs/packaging/recipes/package_definition-dff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-packaging-recipes-package-definition-7-b-6-107"
   },
   "/docs/packaging/recipes/upstreams-e2a": {
     "__comp": "__comp---theme-doc-item-178-a40",

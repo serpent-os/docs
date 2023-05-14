@@ -19,5 +19,9 @@
   "previous": {
     "title": "Overview",
     "permalink": "/docs/packaging/recipes/overview"
+  },
+  "next": {
+    "title": "Metadata",
+    "permalink": "/docs/packaging/recipes/metadata"
   }
 }

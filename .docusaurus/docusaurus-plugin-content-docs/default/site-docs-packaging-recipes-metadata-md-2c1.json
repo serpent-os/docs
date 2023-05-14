@@ -1,0 +1,27 @@
+{
+  "unversionedId": "packaging/recipes/metadata",
+  "id": "packaging/recipes/metadata",
+  "title": "Metadata",
+  "description": "Recipes provide basic metadata to support discovery and automation.",
+  "source": "@site/docs/packaging/recipes/metadata.md",
+  "sourceDirName": "packaging/recipes",
+  "slug": "/packaging/recipes/metadata",
+  "permalink": "/docs/packaging/recipes/metadata",
+  "draft": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/metadata.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "packageSidebar",
+  "previous": {
+    "title": "Upstreams",
+    "permalink": "/docs/packaging/recipes/upstreams"
+  },
+  "next": {
+    "title": "Build dependencies",
+    "permalink": "/docs/packaging/recipes/build_deps"
+  }
+}
