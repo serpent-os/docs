@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/2022/01/20/can-hardly-contain-myself-plus-a-bonus",
+  "source": "@site/blog/can-hardly-contain-myself-plus-a-bonus.md",
+  "title": "Can Hardly Contain Myself, Plus a Bonus",
+  "description": "One of the core steps for building a package is setting up a minimal environment with only the required (and stated)",
+  "date": "2022-01-20T07:08:07.000Z",
+  "formattedDate": "January 20, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.085,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Can Hardly Contain Myself, Plus a Bonus",
+    "date": "2022-01-20T07:08:07.000Z",
+    "draft": false,
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/can-hardly-contain-myself-plus-a-bonus/Featured.webp",
+    "slug": "2022/01/20/can-hardly-contain-myself-plus-a-bonus"
+  },
+  "prevItem": {
+    "title": "Pedal to the Metal",
+    "permalink": "/blog/2022/01/25/pedal-to-the-metal"
+  },
+  "nextItem": {
+    "title": "The Joy of Contribution",
+    "permalink": "/blog/the-joy-of-contribution"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/delays-explained",
+  "source": "@site/blog/delays-explained.md",
+  "title": "Delays Explained",
+  "description": "Well, we've been largely out of action in the public eye for the last 3 weeks, so",
+  "date": "2021-03-17T14:41:01.000Z",
+  "formattedDate": "March 17, 2021",
+  "tags": [],
+  "readingTime": 1.27,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Delays Explained",
+    "date": "2021-03-17T14:41:01.000Z",
+    "draft": false,
+    "authors": [
+      "ikey"
+    ],
+    "categories": [
+      "news"
+    ]
+  },
+  "prevItem": {
+    "title": "Moss Unlocked",
+    "permalink": "/blog/moss-unlocked"
+  },
+  "nextItem": {
+    "title": "Optimising Package Distribution",
+    "permalink": "/blog/optimising-package-distribution"
+  }
+}

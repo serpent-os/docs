@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2023/04/21/snakes-on-a-boat",
+  "source": "@site/blog/snakes-on-a-boat.md",
+  "title": "Snakes On A Boat",
+  "description": "We had intended to get a blog post out a little bit quicker, but the last month has been extremely",
+  "date": "2023-04-21T21:12:56.000Z",
+  "formattedDate": "April 21, 2023",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.335,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Snakes On A Boat",
+    "date": "2023-04-21T21:12:56.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/snakes-on-a-boat/mothertruckingsnakes.webp",
+    "slug": "2023/04/21/snakes-on-a-boat"
+  },
+  "nextItem": {
+    "title": "Infrastructure Launched!",
+    "permalink": "/blog/2023/03/18/infrastructure-launched"
+  }
+}

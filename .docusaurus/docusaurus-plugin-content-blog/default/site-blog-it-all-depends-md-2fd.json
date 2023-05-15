@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2021/11/23/it-all-depends",
+  "source": "@site/blog/it-all-depends.md",
+  "title": "It All Depends",
+  "description": "It all depends.. it really does. On shared libraries.. interpreters.. pkg-config providers",
+  "date": "2021-11-23T23:45:06.000Z",
+  "formattedDate": "November 23, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 5.32,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "It All Depends",
+    "date": "2021-11-23T23:45:06.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/it-all-depends/Featured.webp",
+    "slug": "2021/11/23/it-all-depends"
+  },
+  "prevItem": {
+    "title": "Out of the Bootstrap - Towards Serpent OS",
+    "permalink": "/blog/2021/12/02/out-of-the-bootstrap-towards-serpent-os"
+  },
+  "nextItem": {
+    "title": "Performance Corner: Faster Builds, Smaller Packages",
+    "permalink": "/blog/2021-11-05/performance-corner-faster-builds-smaller-packages"
+  }
+}

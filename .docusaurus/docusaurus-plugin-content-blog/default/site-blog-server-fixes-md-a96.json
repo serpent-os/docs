@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/2020/07/07/server-fixes",
+  "source": "@site/blog/server-fixes.md",
+  "title": "Server Fixes",
+  "description": "Yet another 30-second update from the team. We've fixed some DNS issues so that we can drop the",
+  "date": "2020-07-07T22:12:08.000Z",
+  "formattedDate": "July 7, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.245,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Server Fixes",
+    "date": "2020-07-07T22:12:08.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2020/07/07/server-fixes"
+  },
+  "prevItem": {
+    "title": "Stage1 Complete",
+    "permalink": "/blog/stage1-complete"
+  },
+  "nextItem": {
+    "title": "Welcome: Project Manager",
+    "permalink": "/blog/2020/07/07/welcome-project-manager"
+  }
+}

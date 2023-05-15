@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/2022/01/25/pedal-to-the-metal",
+  "source": "@site/blog/pedal-to-the-metal.md",
+  "title": "Pedal to the Metal",
+  "description": "Wow - what a roller coaster. The most recent development cycle has seen us really",
+  "date": "2022-01-25T11:31:30.000Z",
+  "formattedDate": "January 25, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.02,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Pedal to the Metal",
+    "date": "2022-01-25T11:31:30.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2022/01/25/pedal-to-the-metal"
+  },
+  "prevItem": {
+    "title": "Making Deltas Great Again! (Part 1)",
+    "permalink": "/blog/2022/02/11/making-deltas-great-again-1"
+  },
+  "nextItem": {
+    "title": "Can Hardly Contain Myself, Plus a Bonus",
+    "permalink": "/blog/2022/01/20/can-hardly-contain-myself-plus-a-bonus"
+  }
+}

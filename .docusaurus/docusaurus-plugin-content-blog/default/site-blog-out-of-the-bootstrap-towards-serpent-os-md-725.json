@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2021/12/02/out-of-the-bootstrap-towards-serpent-os",
+  "source": "@site/blog/out-of-the-bootstrap-towards-serpent-os.md",
+  "title": "Out of the Bootstrap - Towards Serpent OS",
+  "description": "The initial stone packages that will seed the first Serpent OS repo have now been finalized! This means that work",
+  "date": "2021-12-02T07:07:12.000Z",
+  "formattedDate": "December 2, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 4.285,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Out of the Bootstrap - Towards Serpent OS",
+    "date": "2021-12-02T07:07:12.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/out-of-the-bootstrap-towards-serpent-os/Featured.webp",
+    "slug": "2021/12/02/out-of-the-bootstrap-towards-serpent-os"
+  },
+  "prevItem": {
+    "title": "Performance Corner: Small Changes Pack a Punch",
+    "permalink": "/blog/2021/12/14/performance-corner-small-changes-pack-a-punch"
+  },
+  "nextItem": {
+    "title": "It All Depends",
+    "permalink": "/blog/2021/11/23/it-all-depends"
+  }
+}

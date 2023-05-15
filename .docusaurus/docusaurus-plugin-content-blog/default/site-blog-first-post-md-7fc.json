@@ -1,0 +1,38 @@
+{
+  "permalink": "/blog/2020/06/30/first-post",
+  "source": "@site/blog/first-post.md",
+  "title": "First Post",
+  "description": "In a nutshell, this post wasn't meant to be coming out for a few weeks.",
+  "date": "2020-06-30T15:24:32.000Z",
+  "formattedDate": "June 30, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.925,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "First Post",
+    "date": "2020-06-30T15:24:32.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2020/06/30/first-post"
+  },
+  "prevItem": {
+    "title": "The Great Experiment",
+    "permalink": "/blog/2020/07/01/the-great-experiment"
+  }
+}

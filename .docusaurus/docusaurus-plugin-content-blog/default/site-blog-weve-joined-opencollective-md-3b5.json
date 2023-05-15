@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/2020/09/14/weve-joined-opencollective",
+  "source": "@site/blog/weve-joined-opencollective.md",
+  "title": "We've Joined OpenCollective",
+  "description": "The eagle eyed among you may have noticed we've been making a concerted effort",
+  "date": "2020-09-14T12:38:37.000Z",
+  "formattedDate": "September 14, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 1.26,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "We've Joined OpenCollective",
+    "date": "2020-09-14T12:38:37.000Z",
+    "draft": false,
+    "type": "post",
+    "authors": [
+      "ikey"
+    ],
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/weve-joined-opencollective/Featured.webp",
+    "slug": "2020/09/14/weve-joined-opencollective"
+  },
+  "prevItem": {
+    "title": "Moss Format Defined",
+    "permalink": "/blog/2020/09/20/moss-format-defined"
+  },
+  "nextItem": {
+    "title": "Website Revamp",
+    "permalink": "/blog/2020/09/13/website-revamp"
+  }
+}

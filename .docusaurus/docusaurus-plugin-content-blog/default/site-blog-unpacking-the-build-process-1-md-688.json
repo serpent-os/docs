@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2021/08/25/unpacking-the-build-process-1",
+  "source": "@site/blog/unpacking-the-build-process-1.md",
+  "title": "Unpacking the Build Process: Part 1",
+  "description": "While the build process (or packaging as it's commonly referred to) is largely hidden to most users, it forms a",
+  "date": "2021-08-25T09:04:12.000Z",
+  "formattedDate": "August 25, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.585,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Unpacking the Build Process: Part 1",
+    "date": "2021-08-25T09:04:12.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/unpacking-the-build-process-1/Featured.webp",
+    "slug": "2021/08/25/unpacking-the-build-process-1"
+  },
+  "prevItem": {
+    "title": "Unpacking the Build Process: Part 2",
+    "permalink": "/blog/2021/09/20/unpacking-the-build-process-2"
+  },
+  "nextItem": {
+    "title": "A Rolling Boulder Gathers No Moss",
+    "permalink": "/blog/2021/08/10/a-rolling-boulder-gathers-no-moss"
+  }
+}

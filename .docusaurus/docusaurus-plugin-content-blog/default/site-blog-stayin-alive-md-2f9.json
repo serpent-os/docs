@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/stayin-alive",
+  "source": "@site/blog/stayin-alive.md",
+  "title": "Stayin Alive",
+  "description": "It's been far too long since a blog post. Sure, we've stayed in touch via",
+  "date": "2021-01-31T08:13:41.000Z",
+  "formattedDate": "January 31, 2021",
+  "tags": [],
+  "readingTime": 1.51,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Stayin Alive",
+    "date": "2021-01-31T08:13:41.000Z",
+    "draft": false,
+    "type": "post",
+    "authors": [
+      "ikey"
+    ],
+    "categories": [
+      "news"
+    ],
+    "featuredImage": "/img/blog/stayin-alive/Featured.webp"
+  },
+  "prevItem": {
+    "title": "Cleanups Complete",
+    "permalink": "/blog/2021/02/08/cleanups-complete"
+  },
+  "nextItem": {
+    "title": "Build System Functional",
+    "permalink": "/blog/2020/10/build-system-functional"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/09/22/results-of-the-experiment",
+  "source": "@site/blog/results-of-the-experiment.md",
+  "title": "Results Of The Experiment",
+  "description": "It seems like only yesterday we announced to the world a Great Experiment.",
+  "date": "2020-09-22T17:05:39.000Z",
+  "formattedDate": "September 22, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.695,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Results Of The Experiment",
+    "date": "2020-09-22T17:05:39.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/results-of-the-experiment/Featured.webp",
+    "slug": "2020/09/22/results-of-the-experiment"
+  },
+  "prevItem": {
+    "title": "Rebootstrapped With Glibc",
+    "permalink": "/blog/2020/09/25/rebootstrapped-with-glibc"
+  },
+  "nextItem": {
+    "title": "Source Format Defined",
+    "permalink": "/blog/2020/09/21/source-format-defined"
+  }
+}

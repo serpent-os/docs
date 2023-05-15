@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2021/02/08/cleanups-complete",
+  "source": "@site/blog/cleanups-complete.md",
+  "title": "Cleanups Complete",
+  "description": "Well, we're officially back to working around the clock. After spending",
+  "date": "2021-02-08T11:50:46.000Z",
+  "formattedDate": "February 8, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 1.615,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Cleanups Complete",
+    "date": "2021-02-08T11:50:46.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/cleanups-complete/Featured.webp",
+    "slug": "2021/02/08/cleanups-complete"
+  },
+  "prevItem": {
+    "title": "Unlocking Moss",
+    "permalink": "/blog/2021/02/09/unlocking-moss"
+  },
+  "nextItem": {
+    "title": "Build System Functional",
+    "permalink": "/blog/2020/10/build-system-functional"
+  }
+}

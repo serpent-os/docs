@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/09/13/website-revamp",
+  "source": "@site/blog/website-revamp.md",
+  "title": "Website Revamp",
+  "description": "Over the last few days we've been working to refresh the stuffy website design with something much",
+  "date": "2020-09-13T12:16:50.000Z",
+  "formattedDate": "September 13, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.665,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Website Revamp",
+    "date": "2020-09-13T12:16:50.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/website-revamp/Featured.webp",
+    "slug": "2020/09/13/website-revamp"
+  },
+  "prevItem": {
+    "title": "Moss Format Defined",
+    "permalink": "/blog/2020/09/20/moss-format-defined"
+  },
+  "nextItem": {
+    "title": "Defining Moss",
+    "permalink": "/blog/2020/09/10/defining-moss"
+  }
+}

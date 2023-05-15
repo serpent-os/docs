@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2021/09/20/unpacking-the-build-process-2",
+  "source": "@site/blog/unpacking-the-build-process-2.md",
+  "title": "Unpacking the Build Process: Part 2",
+  "description": "Part 2 looks at the core of the build process, turning the source into compiled code. In Serpent OS this is handled by",
+  "date": "2021-09-20T06:04:12.000Z",
+  "formattedDate": "September 20, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 4.655,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Unpacking the Build Process: Part 2",
+    "date": "2021-09-20T06:04:12.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/unpacking-the-build-process-2/Featured.webp",
+    "slug": "2021/09/20/unpacking-the-build-process-2"
+  },
+  "prevItem": {
+    "title": "Optimal File Locality",
+    "permalink": "/blog/2021/10/04/optimal-file-locality"
+  },
+  "nextItem": {
+    "title": "Unpacking the Build Process: Part 1",
+    "permalink": "/blog/2021/08/25/unpacking-the-build-process-1"
+  }
+}

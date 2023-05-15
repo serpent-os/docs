@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/09/07/stage3-complete",
+  "source": "@site/blog/stage3-complete.md",
+  "title": "Stage3 Complete",
+  "description": "Another week, another milestone completed. We're pleased to announce that",
+  "date": "2020-09-07T17:39:24.000Z",
+  "formattedDate": "September 7, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.115,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Stage3 Complete",
+    "date": "2020-09-07T17:39:24.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/stage3-complete/Featured.webp",
+    "slug": "2020/09/07/stage3-complete"
+  },
+  "prevItem": {
+    "title": "Defining Moss",
+    "permalink": "/blog/2020/09/10/defining-moss"
+  },
+  "nextItem": {
+    "title": "Looking Stage4 In The Eye",
+    "permalink": "/blog/2020/08/28/looking-stage4-in-the-eye"
+  }
+}

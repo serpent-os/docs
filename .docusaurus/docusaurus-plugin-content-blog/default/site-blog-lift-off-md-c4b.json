@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2022/12/24/lift-off",
+  "source": "@site/blog/lift-off.md",
+  "title": "Lift Off",
+  "description": "Enough of this \"2 years\" nonsense. We're finally ready for lift off. It is with immense pleasure we can",
+  "date": "2022-12-24T01:32:04.000Z",
+  "formattedDate": "December 24, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.635,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Lift Off",
+    "date": "2022-12-24T01:32:04.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/lift-off/Featured.webp",
+    "slug": "2022/12/24/lift-off"
+  },
+  "prevItem": {
+    "title": "Infrastructure Launched!",
+    "permalink": "/blog/2023/03/18/infrastructure-launched"
+  },
+  "nextItem": {
+    "title": "Ready, Set, Go",
+    "permalink": "/blog/2022/11/18/ready-set-go"
+  }
+}

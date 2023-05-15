@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/2021/06/14/migrating-to-matrix",
+  "source": "@site/blog/migrating-to-matrix.md",
+  "title": "Migrating to Matrix",
+  "description": "Hello all! Apologies for the long, long delays. I'm writing this",
+  "date": "2021-06-14T10:24:04.000Z",
+  "formattedDate": "June 14, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.91,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Migrating to Matrix",
+    "date": "2021-06-14T10:24:04.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2021/06/14/migrating-to-matrix"
+  },
+  "prevItem": {
+    "title": "Snake Pit Is Live",
+    "permalink": "/blog/2021/06/14/snake-pit-is-live"
+  },
+  "nextItem": {
+    "title": "Let There Be Databases",
+    "permalink": "/blog/2021/05/18/let-there-be-databases"
+  }
+}

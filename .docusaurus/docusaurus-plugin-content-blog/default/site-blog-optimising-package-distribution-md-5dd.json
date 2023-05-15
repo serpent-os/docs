@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2021/03/16/optimising-package-distribution",
+  "source": "@site/blog/optimising-package-distribution.md",
+  "title": "Optimising Package Distribution",
+  "description": "Getting updates as fast as possible to users has made deltas a popular and sought after feature for distributing",
+  "date": "2021-03-16T22:19:12.000Z",
+  "formattedDate": "March 16, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 5.46,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Optimising Package Distribution",
+    "date": "2021-03-16T22:19:12.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/optimising-package-distribution/Featured.webp",
+    "slug": "2021/03/16/optimising-package-distribution"
+  },
+  "prevItem": {
+    "title": "Moss Unlocked",
+    "permalink": "/blog/2021/03/20/moss-unlocked"
+  },
+  "nextItem": {
+    "title": "Moss Format: Read Write Support",
+    "permalink": "/blog/2021/02/17/moss-format-read-write-support"
+  }
+}

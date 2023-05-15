@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2021/12/14/performance-corner-small-changes-pack-a-punch",
+  "source": "@site/blog/performance-corner-small-changes-pack-a-punch.md",
+  "title": "Performance Corner: Small Changes Pack a Punch",
+  "description": "Here we have another round of changes to make packages smaller and show just how much we care about performance and",
+  "date": "2021-12-14T07:14:23.000Z",
+  "formattedDate": "December 14, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 7.725,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Performance Corner: Small Changes Pack a Punch",
+    "date": "2021-12-14T07:14:23.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/performance-corner-small-changes-pack-a-punch/Featured.webp",
+    "slug": "2021/12/14/performance-corner-small-changes-pack-a-punch"
+  },
+  "prevItem": {
+    "title": "The Joy of Contribution",
+    "permalink": "/blog/the-joy-of-contribution"
+  },
+  "nextItem": {
+    "title": "Out of the Bootstrap - Towards Serpent OS",
+    "permalink": "/blog/2021/12/02/out-of-the-bootstrap-towards-serpent-os"
+  }
+}

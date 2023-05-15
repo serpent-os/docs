@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/2020/07/01/the-great-experiment",
+  "source": "@site/blog/the-great-experiment.md",
+  "title": "The Great Experiment",
+  "description": "So as many have come to realise, we had to rush out a website super quick yesterday as the cat",
+  "date": "2020-07-01T18:39:56.000Z",
+  "formattedDate": "July 1, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 1.26,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "The Great Experiment",
+    "date": "2020-07-01T18:39:56.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2020/07/01/the-great-experiment"
+  },
+  "prevItem": {
+    "title": "Welcome Peter",
+    "permalink": "/blog/2020/07/07/welcome-peter"
+  },
+  "nextItem": {
+    "title": "First Post",
+    "permalink": "/blog/2020/06/30/first-post"
+  }
+}

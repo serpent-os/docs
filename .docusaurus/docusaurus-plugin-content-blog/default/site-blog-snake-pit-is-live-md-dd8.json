@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2021/06/14/snake-pit-is-live",
+  "source": "@site/blog/snake-pit-is-live.md",
+  "title": "Snake Pit Is Live",
+  "description": "It took quite some effort, but I've purchased and built a dedicated office",
+  "date": "2021-06-14T11:07:06.000Z",
+  "formattedDate": "June 14, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.92,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Snake Pit Is Live",
+    "date": "2021-06-14T11:07:06.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/snake-pit-is-live/Featured.jpeg",
+    "slug": "2021/06/14/snake-pit-is-live"
+  },
+  "prevItem": {
+    "title": "Migrating to GitLab",
+    "permalink": "/blog/2021/06/15/migrating-to-gitlab"
+  },
+  "nextItem": {
+    "title": "Migrating to Matrix",
+    "permalink": "/blog/2021/06/14/migrating-to-matrix"
+  }
+}

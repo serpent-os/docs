@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2023/03/18/infrastructure-launched",
+  "source": "@site/blog/infrastructure-launched.md",
+  "title": "Infrastructure Launched!",
+  "description": "After many months and much work, our infrastructure is finally online.",
+  "date": "2023-03-18T23:20:55.000Z",
+  "formattedDate": "March 18, 2023",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 1.315,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Infrastructure Launched!",
+    "date": "2023-03-18T23:20:55.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/infrastructure-launched/Featured.webp",
+    "slug": "2023/03/18/infrastructure-launched"
+  },
+  "prevItem": {
+    "title": "Snakes On A Boat",
+    "permalink": "/blog/2023/04/21/snakes-on-a-boat"
+  },
+  "nextItem": {
+    "title": "Lift Off",
+    "permalink": "/blog/2022/12/24/lift-off"
+  }
+}

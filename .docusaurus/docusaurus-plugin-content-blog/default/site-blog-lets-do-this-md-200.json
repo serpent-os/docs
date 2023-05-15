@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2022/08/08/lets-do-this",
+  "source": "@site/blog/lets-do-this.md",
+  "title": "Let's Do This",
+  "description": "It's high time we had a project relaunch. What better way to do that than with a brand new website?",
+  "date": "2022-08-08T14:08:21.000Z",
+  "formattedDate": "August 8, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.135,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Let's Do This",
+    "date": "2022-08-08T14:08:21.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/lets-do-this/Featured.webp",
+    "slug": "2022/08/08/lets-do-this"
+  },
+  "prevItem": {
+    "title": "The Shopping List",
+    "permalink": "/blog/2022/08/11/the-shopping-list"
+  },
+  "nextItem": {
+    "title": "Infrastructure Update",
+    "permalink": "/blog/2022/07/10/infrastructure-update"
+  }
+}

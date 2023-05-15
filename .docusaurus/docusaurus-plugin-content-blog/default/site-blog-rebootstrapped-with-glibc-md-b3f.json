@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/09/25/rebootstrapped-with-glibc",
+  "source": "@site/blog/rebootstrapped-with-glibc.md",
+  "title": "Rebootstrapped With Glibc",
+  "description": "Only a few days ago we told you of our switch from musl to glibc. That has now been implemented",
+  "date": "2020-09-25T13:23:28.000Z",
+  "formattedDate": "September 25, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.42,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Rebootstrapped With Glibc",
+    "date": "2020-09-25T13:23:28.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/rebootstrapped-with-glibc/Featured.webp",
+    "slug": "2020/09/25/rebootstrapped-with-glibc"
+  },
+  "prevItem": {
+    "title": "Build System Functional",
+    "permalink": "/blog/2020/10/build-system-functional"
+  },
+  "nextItem": {
+    "title": "Results Of The Experiment",
+    "permalink": "/blog/2020/09/22/results-of-the-experiment"
+  }
+}

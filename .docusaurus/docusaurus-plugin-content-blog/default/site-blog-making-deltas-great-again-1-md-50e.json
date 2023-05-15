@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2022/02/11/making-deltas-great-again-1",
+  "source": "@site/blog/making-deltas-great-again-1.md",
+  "title": "Making Deltas Great Again! (Part 1)",
+  "description": "In Optimising Package Distribution we discussed some early",
+  "date": "2022-02-11T09:45:12.000Z",
+  "formattedDate": "February 11, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 14.445,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Making Deltas Great Again! (Part 1)",
+    "date": "2022-02-11T09:45:12.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/making-deltas-great-again-1/Featured.webp",
+    "slug": "2022/02/11/making-deltas-great-again-1"
+  },
+  "prevItem": {
+    "title": "RELR Brings Smaller Files, More Performance?",
+    "permalink": "/blog/2022/04/05/relr-brings-smaller-fixes-more-performance"
+  },
+  "nextItem": {
+    "title": "Pedal to the Metal",
+    "permalink": "/blog/2022/01/25/pedal-to-the-metal"
+  }
+}

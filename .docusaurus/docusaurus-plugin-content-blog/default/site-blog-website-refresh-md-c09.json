@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/2020/07/07/website-refresh",
+  "source": "@site/blog/website-refresh.md",
+  "title": "Website Refresh",
+  "description": "A 30-second update here from ourselves: We've updated the style and layout of the website",
+  "date": "2020-07-07T01:08:08.000Z",
+  "formattedDate": "July 7, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.25,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Website Refresh",
+    "date": "2020-07-07T01:08:08.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2020/07/07/website-refresh"
+  },
+  "prevItem": {
+    "title": "Welcome: Project Manager",
+    "permalink": "/blog/2020/07/07/welcome-project-manager"
+  },
+  "nextItem": {
+    "title": "Welcome Peter",
+    "permalink": "/blog/2020/07/07/welcome-peter"
+  }
+}

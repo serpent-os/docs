@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2021/06/15/migrating-to-gitlab",
+  "source": "@site/blog/migrating-to-gitlab.md",
+  "title": "Migrating to GitLab",
+  "description": "Hot on the heels of yesterday's transition from IRC to Matrix, we're",
+  "date": "2021-06-15T12:26:39.000Z",
+  "formattedDate": "June 15, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 1.45,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Migrating to GitLab",
+    "date": "2021-06-15T12:26:39.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/migrating-to-gitlab/Featured.webp",
+    "slug": "2021/06/15/migrating-to-gitlab"
+  },
+  "prevItem": {
+    "title": "Yet Another Website Revamp",
+    "permalink": "/blog/2021/06/22/yet-another-website-revamp"
+  },
+  "nextItem": {
+    "title": "Snake Pit Is Live",
+    "permalink": "/blog/2021/06/14/snake-pit-is-live"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2021/08/10/a-rolling-boulder-gathers-no-moss",
+  "source": "@site/blog/a-rolling-boulder-gathers-no-moss.md",
+  "title": "A Rolling Boulder Gathers No Moss",
+  "description": "We actually did it. Super pleased to announce that moss is now capable",
+  "date": "2021-08-10T11:02:37.000Z",
+  "formattedDate": "August 10, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.105,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "A Rolling Boulder Gathers No Moss",
+    "date": "2021-08-10T11:02:37.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/a-rolling-boulder-gathers-no-moss/Featured.webp",
+    "slug": "2021/08/10/a-rolling-boulder-gathers-no-moss"
+  },
+  "prevItem": {
+    "title": "Unpacking the Build Process: Part 1",
+    "permalink": "/blog/2021/08/25/unpacking-the-build-process-1"
+  },
+  "nextItem": {
+    "title": "Moss DB Progress",
+    "permalink": "/blog/2021/08/03/moss-db-progress"
+  }
+}

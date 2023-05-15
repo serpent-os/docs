@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/2020/07/07/welcome-project-manager",
+  "source": "@site/blog/welcome-project-manager.md",
+  "title": "Welcome: Project Manager",
+  "description": "The Serpent OS team wishes to formally welcome Aydemir Ulaş Şahin to the core team in the primary",
+  "date": "2020-07-07T10:35:50.000Z",
+  "formattedDate": "July 7, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.605,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Welcome: Project Manager",
+    "date": "2020-07-07T10:35:50.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2020/07/07/welcome-project-manager"
+  },
+  "prevItem": {
+    "title": "Server Fixes",
+    "permalink": "/blog/2020/07/07/server-fixes"
+  },
+  "nextItem": {
+    "title": "Website Refresh",
+    "permalink": "/blog/2020/07/07/website-refresh"
+  }
+}

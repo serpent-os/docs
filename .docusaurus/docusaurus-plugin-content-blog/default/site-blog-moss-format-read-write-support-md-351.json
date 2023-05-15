@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2021/02/17/moss-format-read-write-support",
+  "source": "@site/blog/moss-format-read-write-support.md",
+  "title": "Moss Format: Read Write Support",
+  "description": "It's been 8 days since our last blogpost and a lot of development work has happened",
+  "date": "2021-02-17T22:35:11.000Z",
+  "formattedDate": "February 17, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.665,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Moss Format: Read Write Support",
+    "date": "2021-02-17T22:35:11.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/moss-format-read-write-support/Featured.webp",
+    "slug": "2021/02/17/moss-format-read-write-support"
+  },
+  "prevItem": {
+    "title": "Optimising Package Distribution",
+    "permalink": "/blog/2021/03/16/optimising-package-distribution"
+  },
+  "nextItem": {
+    "title": "Unlocking Moss",
+    "permalink": "/blog/2021/02/09/unlocking-moss"
+  }
+}

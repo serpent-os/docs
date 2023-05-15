@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/stage1-complete",
+  "source": "@site/blog/stage1-complete.md",
+  "title": "Stage1 Complete",
+  "description": "Short and sweet, stage1 of the bootstrap is complete. As I indicated on the Lispy Snake blog,",
+  "date": "2020-08-08T14:15:04.000Z",
+  "formattedDate": "August 8, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.715,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Stage1 Complete",
+    "date": "2020-08-08T14:15:04.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/stage1-complete/progress.webp"
+  },
+  "prevItem": {
+    "title": "Stage2 Complete",
+    "permalink": "/blog/2020/08/16/stage2-complete"
+  },
+  "nextItem": {
+    "title": "Server Fixes",
+    "permalink": "/blog/2020/07/07/server-fixes"
+  }
+}

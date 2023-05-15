@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2022/06/22/packaging-automation-next-steps",
+  "source": "@site/blog/packaging-automation-next-steps.md",
+  "title": "Packaging Automation, Next Steps",
+  "description": "Hot damn we've been busy lately. No, really.",
+  "date": "2022-06-22T16:23:14.000Z",
+  "formattedDate": "June 22, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.62,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Packaging Automation, Next Steps",
+    "date": "2022-06-22T16:23:14.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/packaging-automation-next-steps/Featured.webp",
+    "slug": "2022/06/22/packaging-automation-next-steps"
+  },
+  "prevItem": {
+    "title": "Infrastructure Update",
+    "permalink": "/blog/2022/07/10/infrastructure-update"
+  },
+  "nextItem": {
+    "title": "A Word From The Founder",
+    "permalink": "/blog/2022/06/06/a-word-from-the-founder"
+  }
+}

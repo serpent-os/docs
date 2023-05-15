@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/2020/07/07/welcome-peter",
+  "source": "@site/blog/welcome-peter.md",
+  "title": "Welcome Peter",
+  "description": "Recently we did reveal on Twitter that long time friend and colleague-of-many-projects, Peter O'Connor, has formally joined the core team for",
+  "date": "2020-07-06T15:12:07.000Z",
+  "formattedDate": "July 6, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 1.37,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Welcome Peter",
+    "date": "2020-07-06T15:12:07.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2020/07/07/welcome-peter"
+  },
+  "prevItem": {
+    "title": "Website Refresh",
+    "permalink": "/blog/2020/07/07/website-refresh"
+  },
+  "nextItem": {
+    "title": "The Great Experiment",
+    "permalink": "/blog/2020/07/01/the-great-experiment"
+  }
+}

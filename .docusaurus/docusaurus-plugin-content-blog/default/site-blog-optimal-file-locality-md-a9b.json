@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2021/10/04/optimal-file-locality",
+  "source": "@site/blog/optimal-file-locality.md",
+  "title": "Optimal File Locality",
+  "description": "File locality in this post refers to the order of files in our content payload. Yes that's right, we're focused on the",
+  "date": "2021-10-04T05:49:12.000Z",
+  "formattedDate": "October 4, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 7.075,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Optimal File Locality",
+    "date": "2021-10-04T05:49:12.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/optimal-file-locality/Featured.webp",
+    "slug": "2021/10/04/optimal-file-locality"
+  },
+  "prevItem": {
+    "title": "Performance Corner: Faster Builds, Smaller Packages",
+    "permalink": "/blog/2021-11-05/performance-corner-faster-builds-smaller-packages"
+  },
+  "nextItem": {
+    "title": "Unpacking the Build Process: Part 2",
+    "permalink": "/blog/2021/09/20/unpacking-the-build-process-2"
+  }
+}

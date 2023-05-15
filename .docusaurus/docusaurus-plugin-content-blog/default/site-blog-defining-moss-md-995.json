@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/09/10/defining-moss",
+  "source": "@site/blog/defining-moss.md",
+  "title": "Defining Moss",
+  "description": "Over the past few weeks, throughout the entire bootstrap process, we've",
+  "date": "2020-09-10T15:02:48.000Z",
+  "formattedDate": "September 10, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.675,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Defining Moss",
+    "date": "2020-09-10T15:02:48.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/defining-moss/Featured.webp",
+    "slug": "2020/09/10/defining-moss"
+  },
+  "prevItem": {
+    "title": "Website Revamp",
+    "permalink": "/blog/2020/09/13/website-revamp"
+  },
+  "nextItem": {
+    "title": "Stage3 Complete",
+    "permalink": "/blog/2020/09/07/stage3-complete"
+  }
+}

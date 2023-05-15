@@ -1,0 +1,38 @@
+{
+  "permalink": "/blog/the-joy-of-contribution",
+  "source": "@site/blog/the-joy-of-contribution.md",
+  "title": "The Joy of Contribution",
+  "description": "​A core pillar (outside of providing a blazingly fast distribution!) of Serpent OS is to create an enjoyable environment",
+  "date": "2022-01-04T01:03:23.000Z",
+  "formattedDate": "January 4, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.01,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "The Joy of Contribution",
+    "date": "2022-01-04T01:03:23.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ]
+  },
+  "prevItem": {
+    "title": "Can Hardly Contain Myself, Plus a Bonus",
+    "permalink": "/blog/2022/01/20/can-hardly-contain-myself-plus-a-bonus"
+  },
+  "nextItem": {
+    "title": "Performance Corner: Small Changes Pack a Punch",
+    "permalink": "/blog/2021/12/14/performance-corner-small-changes-pack-a-punch"
+  }
+}

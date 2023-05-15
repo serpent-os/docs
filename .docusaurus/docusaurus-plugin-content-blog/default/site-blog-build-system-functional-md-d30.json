@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/2020/10/build-system-functional",
+  "source": "@site/blog/build-system-functional.md",
+  "title": "Build System Functional",
+  "description": "Wow, has it been a hectic few weeks, and it definitely shows: last time",
+  "date": "2020-10-11T09:17:25.000Z",
+  "formattedDate": "October 11, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.08,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Build System Functional",
+    "date": "2020-10-11T09:17:25.000Z",
+    "draft": false,
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/build-system-functional/Featured.webp",
+    "slug": "2020/10/build-system-functional"
+  },
+  "prevItem": {
+    "title": "Cleanups Complete",
+    "permalink": "/blog/2021/02/08/cleanups-complete"
+  },
+  "nextItem": {
+    "title": "Rebootstrapped With Glibc",
+    "permalink": "/blog/2020/09/25/rebootstrapped-with-glibc"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/2021/06/22/yet-another-website-revamp",
+  "source": "@site/blog/yet-another-website-revamp.md",
+  "title": "Yet Another Website Revamp",
+  "description": "Yeah we did it again. Project is back with a bang and working",
+  "date": "2021-06-22T12:11:06.000Z",
+  "formattedDate": "June 22, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 0.52,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Yet Another Website Revamp",
+    "date": "2021-06-22T12:11:06.000Z",
+    "authors": "ikey",
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/yet-another-website-revamp/Featured.webp",
+    "slug": "2021/06/22/yet-another-website-revamp"
+  },
+  "prevItem": {
+    "title": "Boulder Keeps On Rolling",
+    "permalink": "/blog/2021/07/27/boulder-keeps-on-rolling"
+  },
+  "nextItem": {
+    "title": "Migrating to GitLab",
+    "permalink": "/blog/2021/06/15/migrating-to-gitlab"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2021/05/18/let-there-be-databases",
+  "source": "@site/blog/let-there-be-databases.md",
+  "title": "Let There Be Databases",
+  "description": "We haven't been too great on sharing progress lately, so welcome to an overdue update on",
+  "date": "2021-05-18T09:31:32.000Z",
+  "formattedDate": "May 18, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.47,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Let There Be Databases",
+    "date": "2021-05-18T09:31:32.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/let-there-be-databases/Featured.webp",
+    "slug": "2021/05/18/let-there-be-databases"
+  },
+  "prevItem": {
+    "title": "Migrating to Matrix",
+    "permalink": "/blog/2021/06/14/migrating-to-matrix"
+  },
+  "nextItem": {
+    "title": "Moss Unlocked",
+    "permalink": "/blog/2021/03/20/moss-unlocked"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/09/21/source-format-defined",
+  "source": "@site/blog/source-format-defined.md",
+  "title": "Source Format Defined",
+  "description": "Following quickly on the heels of yesterday's announcement that the binary format has been defined, we've",
+  "date": "2020-09-21T15:09:46.000Z",
+  "formattedDate": "September 21, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.2,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Source Format Defined",
+    "date": "2020-09-21T15:09:46.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/source-format-defined/Featured.webp",
+    "slug": "2020/09/21/source-format-defined"
+  },
+  "prevItem": {
+    "title": "Results Of The Experiment",
+    "permalink": "/blog/2020/09/22/results-of-the-experiment"
+  },
+  "nextItem": {
+    "title": "Moss Format Defined",
+    "permalink": "/blog/2020/09/20/moss-format-defined"
+  }
+}

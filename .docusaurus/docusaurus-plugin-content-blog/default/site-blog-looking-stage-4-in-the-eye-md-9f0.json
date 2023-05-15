@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/08/28/looking-stage4-in-the-eye",
+  "source": "@site/blog/looking-stage4-in-the-eye.md",
+  "title": "Looking Stage4 In The Eye",
+  "description": "Well, we've made an awful lot of progress in these last few days. It wasn't",
+  "date": "2020-08-28T20:35:16.000Z",
+  "formattedDate": "August 28, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 3.535,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Looking Stage4 In The Eye",
+    "date": "2020-08-28T20:35:16.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/looking-stage4-in-the-eye/FeaturedSD.webp",
+    "slug": "2020/08/28/looking-stage4-in-the-eye"
+  },
+  "prevItem": {
+    "title": "Stage3 Complete",
+    "permalink": "/blog/2020/09/07/stage3-complete"
+  },
+  "nextItem": {
+    "title": "Scaling Our Infrastructure",
+    "permalink": "/blog/2020/08/22/scaling-our-infrastructure"
+  }
+}

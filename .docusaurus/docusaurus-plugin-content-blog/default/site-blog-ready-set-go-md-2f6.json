@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2022/11/18/ready-set-go",
+  "source": "@site/blog/ready-set-go.md",
+  "title": "Ready, Set, Go",
+  "description": "While the blog has been quiet, the git commits have been flowing! The core pieces of our infrastructure are nearing",
+  "date": "2022-11-18T07:07:25.000Z",
+  "formattedDate": "November 18, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 5.765,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Ready, Set, Go",
+    "date": "2022-11-18T07:07:25.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/ready-set-go/Featured.webp",
+    "slug": "2022/11/18/ready-set-go"
+  },
+  "prevItem": {
+    "title": "Lift Off",
+    "permalink": "/blog/2022/12/24/lift-off"
+  },
+  "nextItem": {
+    "title": "The Big Update",
+    "permalink": "/blog/2022/09/14/the-big-update"
+  }
+}

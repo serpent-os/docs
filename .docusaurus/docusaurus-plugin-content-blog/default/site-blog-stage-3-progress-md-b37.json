@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/08/20/stage3-progress",
+  "source": "@site/blog/stage3-progress.md",
+  "title": "Stage 3 Progress",
+  "description": "Well, it's been a few days since we last spoke, so now it's time for a quick",
+  "date": "2020-08-20T13:14:49.000Z",
+  "formattedDate": "August 20, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 4.42,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Stage 3 Progress",
+    "date": "2020-08-20T13:14:49.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/stage3-progress/screenshot.webp",
+    "slug": "2020/08/20/stage3-progress"
+  },
+  "prevItem": {
+    "title": "Scaling Our Infrastructure",
+    "permalink": "/blog/2020/08/22/scaling-our-infrastructure"
+  },
+  "nextItem": {
+    "title": "Stage2 Complete",
+    "permalink": "/blog/2020/08/16/stage2-complete"
+  }
+}

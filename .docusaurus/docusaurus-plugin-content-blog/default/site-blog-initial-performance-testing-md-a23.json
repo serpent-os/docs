@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/initial-performance-testing",
+  "source": "@site/blog/initial-performance-testing.md",
+  "title": "Initial Performance Testing",
+  "description": "With further progress on boulder, we can now build native stone packages with some easy tweaks such as profile",
+  "date": "2021-08-02T01:28:24.000Z",
+  "formattedDate": "August 2, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 4.855,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Initial Performance Testing",
+    "date": "2021-08-02T01:28:24.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/initial-performance-testing/Featured.webp"
+  },
+  "prevItem": {
+    "title": "Moss DB Progress",
+    "permalink": "/blog/2021/08/03/moss-db-progress"
+  },
+  "nextItem": {
+    "title": "Boulder Keeps On Rolling",
+    "permalink": "/blog/2021/07/27/boulder-keeps-on-rolling"
+  }
+}

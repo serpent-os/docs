@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2020/08/22/scaling-our-infrastructure",
+  "source": "@site/blog/scaling-our-infrastructure.md",
+  "title": "Scaling Our Infrastructure",
+  "description": "While it might look like we haven't been up to much lately, the exact opposite is true.",
+  "date": "2020-08-22T13:25:56.000Z",
+  "formattedDate": "August 22, 2020",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Scaling Our Infrastructure",
+    "date": "2020-08-22T13:25:56.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/scaling-our-infrastructure/featured.webp",
+    "slug": "2020/08/22/scaling-our-infrastructure"
+  },
+  "prevItem": {
+    "title": "Looking Stage4 In The Eye",
+    "permalink": "/blog/2020/08/28/looking-stage4-in-the-eye"
+  },
+  "nextItem": {
+    "title": "Stage 3 Progress",
+    "permalink": "/blog/2020/08/20/stage3-progress"
+  }
+}

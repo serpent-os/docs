@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2022/06/06/a-word-from-the-founder",
+  "source": "@site/blog/a-word-from-the-founder.md",
+  "title": "A Word From The Founder",
+  "description": "Well well, it's been a long time since I personally wrote a post.. :) So let's keep",
+  "date": "2022-06-06T19:36:51.000Z",
+  "formattedDate": "June 6, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 1.22,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "A Word From The Founder",
+    "date": "2022-06-06T19:36:51.000Z",
+    "draft": false,
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "slug": "2022/06/06/a-word-from-the-founder"
+  },
+  "prevItem": {
+    "title": "Packaging Automation, Next Steps",
+    "permalink": "/blog/2022/06/22/packaging-automation-next-steps"
+  },
+  "nextItem": {
+    "title": "RELR Brings Smaller Files, More Performance?",
+    "permalink": "/blog/2022/04/05/relr-brings-smaller-fixes-more-performance"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2022/07/10/infrastructure-update",
+  "source": "@site/blog/infrastructure-update.md",
+  "title": "Infrastructure Update",
+  "description": "Since the last post, I've pivoted to full time work on Serpent OS, which is",
+  "date": "2022-07-10T10:26:05.000Z",
+  "formattedDate": "July 10, 2022",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.93,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Infrastructure Update",
+    "date": "2022-07-10T10:26:05.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/infrastructure-update/Featured.webp",
+    "slug": "2022/07/10/infrastructure-update"
+  },
+  "prevItem": {
+    "title": "Let's Do This",
+    "permalink": "/blog/2022/08/08/lets-do-this"
+  },
+  "nextItem": {
+    "title": "Packaging Automation, Next Steps",
+    "permalink": "/blog/2022/06/22/packaging-automation-next-steps"
+  }
+}

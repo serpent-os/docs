@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/2021-11-05/performance-corner-faster-builds-smaller-packages",
+  "source": "@site/blog/performance-corner-faster-builds-smaller-packages.md",
+  "title": "Performance Corner: Faster Builds, Smaller Packages",
+  "description": "Performance Corner is a new series where we highlight to you some changes in Serpent OS that may not be obvious, but",
+  "date": "2021-11-05T08:23:32.000Z",
+  "formattedDate": "November 5, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 5.065,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Peter O'Connor",
+      "key": "sunnyflunk"
+    }
+  ],
+  "frontMatter": {
+    "title": "Performance Corner: Faster Builds, Smaller Packages",
+    "date": "2021-11-05T08:23:32.000Z",
+    "authors": "sunnyflunk",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/performance-corner-faster-builds-smaller-packages/Featured.webp",
+    "slug": "2021-11-05/performance-corner-faster-builds-smaller-packages"
+  },
+  "prevItem": {
+    "title": "It All Depends",
+    "permalink": "/blog/2021/11/23/it-all-depends"
+  },
+  "nextItem": {
+    "title": "Optimal File Locality",
+    "permalink": "/blog/2021/10/04/optimal-file-locality"
+  }
+}

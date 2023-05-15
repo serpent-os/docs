@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/2021/08/03/moss-db-progress",
+  "source": "@site/blog/moss-db-progress.md",
+  "title": "Moss DB Progress",
+  "description": "I'll try to make this update as brief as I can but it's certainly an important one, so",
+  "date": "2021-08-03T13:16:16.000Z",
+  "formattedDate": "August 3, 2021",
+  "tags": [
+    {
+      "label": "news",
+      "permalink": "/blog/tags/news"
+    }
+  ],
+  "readingTime": 2.03,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ikey Doherty",
+      "title": "Architect",
+      "email": "ikey@serpentos.com",
+      "imageURL": "img/authors/ikey.jpeg",
+      "key": "ikey"
+    }
+  ],
+  "frontMatter": {
+    "title": "Moss DB Progress",
+    "date": "2021-08-03T13:16:16.000Z",
+    "authors": "ikey",
+    "tags": [
+      "news"
+    ],
+    "image": "/img/blog/moss-db-progress/Featured.webp",
+    "slug": "2021/08/03/moss-db-progress"
+  },
+  "prevItem": {
+    "title": "A Rolling Boulder Gathers No Moss",
+    "permalink": "/blog/2021/08/10/a-rolling-boulder-gathers-no-moss"
+  },
+  "nextItem": {
+    "title": "Initial Performance Testing",
+    "permalink": "/blog/initial-performance-testing"
+  }
+}
