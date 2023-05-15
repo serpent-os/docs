@@ -63,6 +63,11 @@ const config = {
         },
         items: [
           {
+            to: 'blog',
+            label: 'Blog',
+            position: 'left',
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'devSidebar',
             position: 'left',
