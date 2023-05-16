@@ -2,52 +2,59 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
+import { IconCode, IconPackage, IconUser } from '@tabler/icons-react';
 
 type DocSection = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
   link: string;
+  img: JSX.Element,
 };
 
 const DocList: DocSection[] = [
   {
     title: 'Developers',
-    Svg: require('@site/static/img/code.svg').default,
     description: (
       <>
         Learn how to develop tooling and solutions for Serpent OS
       </>
     ),
     link: 'docs/developers/intro',
+    img: (
+      <IconCode size="96" stroke="1"></IconCode>
+    )
   },
   {
     title: 'Packagers',
-    Svg: require('@site/static/img/package.svg').default,
     description: (
       <>
         Get to grips with our advanced packaging features using easy to follow guides
       </>
     ),
     link: 'docs/packaging/intro',
+    img: (
+      <IconPackage size="96" stroke="1"></IconPackage>
+    )
   },
   {
     title: 'Users',
-    Svg: require('@site/static/img/user.svg').default,
     description: (
       <>
         Need to know how something works? You've come to the right place.
       </>
     ),
     link: 'docs/users/intro',
+    img: (
+      <IconPackage size="96" stroke="1"></IconPackage>
+    )
   },
 ];
 
-function Doc({title, Svg, description, link}: DocSection) {
+function Doc({title, img, description, link}: DocSection) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {img}
       </div>
         <div className="text--center padding-horiz--md">
           <Link href={link}>

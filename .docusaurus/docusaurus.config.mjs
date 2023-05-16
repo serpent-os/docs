@@ -37,14 +37,14 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Serpent OS",
       "logo": {
         "alt": "Serpent OS Logo",
-        "src": "img/logo.webp",
+        "src": "img/logo_white.webp",
         "srcDark": "img/logo_white.webp",
         "width": 32,
         "height": 32
       },
+      "style": "dark",
       "items": [
         {
           "type": "dropdown",

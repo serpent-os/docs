@@ -55,15 +55,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Serpent OS',
+        //title: 'Serpent OS',
         logo: {
           alt: 'Serpent OS Logo',
-          src: 'img/logo.webp',
+          src: 'img/logo_white.webp',
           srcDark: 'img/logo_white.webp',
           width: 32,
           height: 32,
         },
-        //style: 'dark',
+        style: 'dark',
         items: [
           {
             type: 'dropdown',
