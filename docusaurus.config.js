@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Serpent OS',
-  tagline: 'Even snakes need taming',
+  tagline: 'Modular OS construction kit',
   favicon: 'favicon.ico',
 
   // Set the production url of your site here
@@ -54,40 +54,80 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       navbar: {
         title: 'Serpent OS',
         logo: {
           alt: 'Serpent OS Logo',
           src: 'img/logo.webp',
+          srcDark: 'img/logo_white.webp',
+          width: 32,
+          height: 32,
         },
+        //style: 'dark',
         items: [
+          {
+            type: 'dropdown',
+            label: 'About',
+            position: 'left',
+            items: [
+              {
+                to: 'about',
+                label: 'Serpent OS',
+              },
+              {
+                to: 'team',
+                label: 'Team',
+              }
+            ]
+          },
           {
             to: 'blog',
             label: 'Blog',
             position: 'left',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'devSidebar',
+            type: 'dropdown',
+            label: 'Community',
             position: 'left',
-            label: 'Developers',
+            items: [
+              {
+                label: 'Forums',
+                href: 'https://forums.serpentos.com/',
+              },
+              {
+                label: 'Matrix',
+                href: 'https://matrix.to/#/#serpent-os-space:matrix.org',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/Serpent_OS',
+              },
+            ],
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'packageSidebar',
+            to: 'docs',
+            label: 'Docs',
             position: 'left',
-            label: 'Packaging',
-          },          {
-            type: 'docSidebar',
-            sidebarId: 'userSidebar',
+          },
+          {
+            type: 'dropdown',
+            label: 'Tools',
             position: 'left',
-            label: 'Users',
+            items: [
+              {
+                to: 'boulder',
+                label: 'Boulder'
+              },
+              {
+                to: 'moss',
+                label: 'Moss',
+              }
+            ]
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
