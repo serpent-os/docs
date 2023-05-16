@@ -4,7 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 
-import styles from './docs.module.css';
+import styles from './index.module.css';
 import DocSections from '@site/src/components/DocSections';
 
 function DocsHeader() {
