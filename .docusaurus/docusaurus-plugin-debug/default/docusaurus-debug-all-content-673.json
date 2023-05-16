@@ -3385,6 +3385,11 @@
         }
       },
       {
+        "type": "jsx",
+        "permalink": "/docs",
+        "source": "@site/src/pages/docs.tsx"
+      },
+      {
         "type": "mdx",
         "permalink": "/fast",
         "source": "@site/src/pages/fast.md",

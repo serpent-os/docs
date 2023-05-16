@@ -403,6 +403,11 @@ export default [
     exact: true
   },
   {
+    path: '/docs',
+    component: ComponentCreator('/docs', '93e'),
+    exact: true
+  },
+  {
     path: '/fast',
     component: ComponentCreator('/fast', '375'),
     exact: true

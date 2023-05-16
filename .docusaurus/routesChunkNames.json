@@ -981,6 +981,13 @@
     },
     "content": "content---dependablee-70-df0"
   },
+  "/docs-93e": {
+    "__comp": "__comp---site-src-pages-docs-tsx-054-fa9",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "config": "config---docs-5-e-9-e96"
+  },
   "/fast-375": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
@@ -1092,6 +1099,6 @@
     "__context": {
       "plugin": "plugin---about-4-c-9-fdb"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---docs-5-e-9-e96"
   }
 }
