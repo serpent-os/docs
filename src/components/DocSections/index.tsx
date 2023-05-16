@@ -45,7 +45,7 @@ const DocList: DocSection[] = [
     ),
     link: 'docs/users/intro',
     img: (
-      <IconPackage size="96" stroke="1"></IconPackage>
+      <IconUser size="96" stroke="1"></IconUser>
     )
   },
 ];
