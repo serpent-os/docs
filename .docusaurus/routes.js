@@ -383,11 +383,6 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'f36'),
-    exact: true
-  },
-  {
     path: '/docs',
     component: ComponentCreator('/docs', 'a22'),
     routes: [

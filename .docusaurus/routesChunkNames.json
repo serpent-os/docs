@@ -953,13 +953,6 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-the-joy-of-contributiona-5-d-2be"
   },
-  "/markdown-page-f36": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---markdown-page-4-c-9-d81"
-    },
-    "content": "content---markdown-page-393-028"
-  },
   "/docs-a22": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
@@ -1034,7 +1027,7 @@
   "/-5ac": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---markdown-page-4-c-9-d81"
+      "plugin": "plugin---4-c-9-786"
     },
     "config": "config---5-e-9-4f3"
   }
