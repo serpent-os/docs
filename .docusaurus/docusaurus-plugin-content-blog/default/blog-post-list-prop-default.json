@@ -1,25 +1,4 @@
 {
   "title": "Recent posts",
-  "items": [
-    {
-      "title": "Snakes On A Boat",
-      "permalink": "/blog/2023/04/21/snakes-on-a-boat"
-    },
-    {
-      "title": "Infrastructure Launched!",
-      "permalink": "/blog/2023/03/18/infrastructure-launched"
-    },
-    {
-      "title": "Lift Off",
-      "permalink": "/blog/2022/12/24/lift-off"
-    },
-    {
-      "title": "Ready, Set, Go",
-      "permalink": "/blog/2022/11/18/ready-set-go"
-    },
-    {
-      "title": "The Big Update",
-      "permalink": "/blog/2022/09/14/the-big-update"
-    }
-  ]
+  "items": []
 }

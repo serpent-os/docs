@@ -66,78 +66,27 @@ const config = {
         style: 'dark',
         items: [
           {
-            type: 'dropdown',
-            label: 'About',
+            type: 'docSidebar',
+            sidebarId: 'devSidebar',
             position: 'left',
-            items: [
-              {
-                to: 'about',
-                label: 'Serpent OS',
-              },
-              {
-                to: 'team',
-                label: 'Team',
-              }
-            ]
+            label: 'Developers',
           },
           {
-            to: 'blog',
-            label: 'Blog',
+            type: 'docSidebar',
+            sidebarId: 'packageSidebar',
             position: 'left',
-          },
-          {
-            type: 'dropdown',
-            label: 'Community',
+            label: 'Packaging',
+          },          {
+            type: 'docSidebar',
+            sidebarId: 'userSidebar',
             position: 'left',
-            items: [
-              {
-                label: 'Forums',
-                href: 'https://forums.serpentos.com/',
-              },
-              {
-                label: 'Matrix',
-                href: 'https://matrix.to/#/#serpent-os-space:matrix.org',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/Serpent_OS',
-              },
-            ],
-          },
-          {
-            to: 'docs',
-            label: 'Docs',
-            position: 'left',
-          },
-          {
-            type: 'dropdown',
-            label: 'Tools',
-            position: 'left',
-            items: [
-              {
-                to: 'boulder',
-                label: 'Boulder'
-              },
-              {
-                to: 'moss',
-                label: 'Moss',
-              }
-            ]
+            label: 'Users',
           },
         ],
       },
       footer: {
         style: 'light',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
