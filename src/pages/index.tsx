@@ -25,8 +25,8 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Documentation for Serpent OS">
+      title="Home"
+      description="Serpent OS">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
