@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/fast",
+  "source": "@site/src/pages/fast.md",
+  "title": "Performance and Efficiency at the Forefront",
+  "description": "<!---",
+  "frontMatter": {
+    "title": "Performance and Efficiency at the Forefront",
+    "date": "2022-01-12T07:12:12.000Z",
+    "draft": false,
+    "Callout": "Squeezing out the most performance from your hardware"
+  }
+}

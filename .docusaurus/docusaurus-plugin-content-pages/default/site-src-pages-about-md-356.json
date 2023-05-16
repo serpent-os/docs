@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/about",
+  "source": "@site/src/pages/about.md",
+  "title": "About Serpent OS",
+  "description": "Serpent OS is building a pioneering Linux distribution, with a focus on cutting edge technologies to streamline performance",
+  "frontMatter": {
+    "title": "About Serpent OS",
+    "date": "2021-06-22T12:07:23.000Z",
+    "draft": false,
+    "Callout": "The key details you'll want to know"
+  }
+}

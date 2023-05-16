@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/smart",
+  "source": "@site/src/pages/smart.md",
+  "title": "Smart System Management (SSM)",
+  "description": "<!---",
+  "frontMatter": {
+    "title": "Smart System Management (SSM)",
+    "date": "2022-01-12T08:31:14.000Z",
+    "draft": false,
+    "Callout": "Making intelligent decisions behind the scenes without interruption"
+  }
+}

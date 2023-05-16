@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/community",
+  "source": "@site/src/pages/community.md",
+  "title": "A Fun Place to Hang, Code and Help Out",
+  "description": "<!---",
+  "frontMatter": {
+    "title": "A Fun Place to Hang, Code and Help Out",
+    "date": "2022-01-14T05:23:23.000Z",
+    "draft": false,
+    "Callout": "Enjoy what you do and you'll probably do more of it"
+  }
+}

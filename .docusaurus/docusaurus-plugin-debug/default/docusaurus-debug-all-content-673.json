@@ -3333,9 +3333,126 @@
   "docusaurus-plugin-content-pages": {
     "default": [
       {
+        "type": "mdx",
+        "permalink": "/about",
+        "source": "@site/src/pages/about.md",
+        "title": "About Serpent OS",
+        "description": "Serpent OS is building a pioneering Linux distribution, with a focus on cutting edge technologies to streamline performance",
+        "frontMatter": {
+          "title": "About Serpent OS",
+          "date": "2021-06-22T12:07:23.000Z",
+          "draft": false,
+          "Callout": "The key details you'll want to know"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/boulder",
+        "source": "@site/src/pages/boulder.md",
+        "title": "Who Knew Building Packages Could be so Easy?",
+        "description": "<!---",
+        "frontMatter": {
+          "title": "Who Knew Building Packages Could be so Easy?",
+          "date": "2022-01-06T06:18:34.000Z",
+          "draft": false,
+          "Callout": "boulder makes creating packages fast and efficient, taking out all the leg work"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/community",
+        "source": "@site/src/pages/community.md",
+        "title": "A Fun Place to Hang, Code and Help Out",
+        "description": "<!---",
+        "frontMatter": {
+          "title": "A Fun Place to Hang, Code and Help Out",
+          "date": "2022-01-14T05:23:23.000Z",
+          "draft": false,
+          "Callout": "Enjoy what you do and you'll probably do more of it"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/dependable",
+        "source": "@site/src/pages/dependable.md",
+        "title": "Dependability You Can Count On",
+        "description": "<!---",
+        "frontMatter": {
+          "title": "Dependability You Can Count On",
+          "date": "2022-01-04T22:03:23.000Z",
+          "draft": false,
+          "Callout": "Our mission is to keep you running without the hassle"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/fast",
+        "source": "@site/src/pages/fast.md",
+        "title": "Performance and Efficiency at the Forefront",
+        "description": "<!---",
+        "frontMatter": {
+          "title": "Performance and Efficiency at the Forefront",
+          "date": "2022-01-12T07:12:12.000Z",
+          "draft": false,
+          "Callout": "Squeezing out the most performance from your hardware"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/flexible",
+        "source": "@site/src/pages/flexible.md",
+        "title": "A Smooth Experience For All Levels",
+        "description": "<!---",
+        "frontMatter": {
+          "title": "A Smooth Experience For All Levels",
+          "date": "2022-01-12T00:46:12.000Z",
+          "draft": false,
+          "Callout": "Empowering users to make their own decisions, without getting in their way"
+        }
+      },
+      {
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/moss",
+        "source": "@site/src/pages/moss.md",
+        "title": "System Management Tool For Serpent OS",
+        "description": "<!---",
+        "frontMatter": {
+          "title": "System Management Tool For Serpent OS",
+          "date": "2022-02-18T07:13:46.000Z",
+          "draft": false,
+          "Callout": "`moss` is much more than just a package manager"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/privacy",
+        "source": "@site/src/pages/privacy.md",
+        "title": "Privacy",
+        "description": "Our core policy, in laymans terms, is:",
+        "frontMatter": {
+          "title": "Privacy",
+          "date": "2020-08-22T01:17:16.000Z",
+          "draft": false,
+          "Callout": "Serpent OS will always respect your privacy"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/smart",
+        "source": "@site/src/pages/smart.md",
+        "title": "Smart System Management (SSM)",
+        "description": "<!---",
+        "frontMatter": {
+          "title": "Smart System Management (SSM)",
+          "date": "2022-01-12T08:31:14.000Z",
+          "draft": false,
+          "Callout": "Making intelligent decisions behind the scenes without interruption"
+        }
       }
     ]
   },

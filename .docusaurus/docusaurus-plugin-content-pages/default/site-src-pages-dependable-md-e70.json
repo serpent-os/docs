@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/dependable",
+  "source": "@site/src/pages/dependable.md",
+  "title": "Dependability You Can Count On",
+  "description": "<!---",
+  "frontMatter": {
+    "title": "Dependability You Can Count On",
+    "date": "2022-01-04T22:03:23.000Z",
+    "draft": false,
+    "Callout": "Our mission is to keep you running without the hassle"
+  }
+}

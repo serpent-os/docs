@@ -42,6 +42,13 @@
       "plugin": "plugin---docusaurus-debug-8-ae-ccb"
     }
   },
+  "/about-621": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---about-356-540"
+  },
   "/blog-e14": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
@@ -953,6 +960,62 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-the-joy-of-contributiona-5-d-2be"
   },
+  "/boulder-a49": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---boulder-733-61c"
+  },
+  "/community-b8b": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---communitye-7-b-198"
+  },
+  "/dependable-382": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---dependablee-70-df0"
+  },
+  "/fast-375": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---fast-023-98c"
+  },
+  "/flexible-233": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---flexible-480-517"
+  },
+  "/moss-f35": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---moss-1-ee-356"
+  },
+  "/privacy-361": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---privacy-8-e-3-935"
+  },
+  "/smart-415": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-4-c-9-fdb"
+    },
+    "content": "content---smartbf-8-284"
+  },
   "/docs-a22": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
@@ -1027,7 +1090,7 @@
   "/-5ac": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---4-c-9-786"
+      "plugin": "plugin---about-4-c-9-fdb"
     },
     "config": "config---5-e-9-4f3"
   }

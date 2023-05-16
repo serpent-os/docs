@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/moss",
+  "source": "@site/src/pages/moss.md",
+  "title": "System Management Tool For Serpent OS",
+  "description": "<!---",
+  "frontMatter": {
+    "title": "System Management Tool For Serpent OS",
+    "date": "2022-02-18T07:13:46.000Z",
+    "draft": false,
+    "Callout": "`moss` is much more than just a package manager"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/flexible",
+  "source": "@site/src/pages/flexible.md",
+  "title": "A Smooth Experience For All Levels",
+  "description": "<!---",
+  "frontMatter": {
+    "title": "A Smooth Experience For All Levels",
+    "date": "2022-01-12T00:46:12.000Z",
+    "draft": false,
+    "Callout": "Empowering users to make their own decisions, without getting in their way"
+  }
+}

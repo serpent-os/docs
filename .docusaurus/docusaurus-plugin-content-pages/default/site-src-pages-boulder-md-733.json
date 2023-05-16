@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/boulder",
+  "source": "@site/src/pages/boulder.md",
+  "title": "Who Knew Building Packages Could be so Easy?",
+  "description": "<!---",
+  "frontMatter": {
+    "title": "Who Knew Building Packages Could be so Easy?",
+    "date": "2022-01-06T06:18:34.000Z",
+    "draft": false,
+    "Callout": "boulder makes creating packages fast and efficient, taking out all the leg work"
+  }
+}

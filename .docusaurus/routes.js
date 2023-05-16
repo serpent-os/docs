@@ -38,6 +38,11 @@ export default [
     exact: true
   },
   {
+    path: '/about',
+    component: ComponentCreator('/about', '621'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'e14'),
     exact: true
@@ -380,6 +385,46 @@ export default [
   {
     path: '/blog/the-joy-of-contribution',
     component: ComponentCreator('/blog/the-joy-of-contribution', '466'),
+    exact: true
+  },
+  {
+    path: '/boulder',
+    component: ComponentCreator('/boulder', 'a49'),
+    exact: true
+  },
+  {
+    path: '/community',
+    component: ComponentCreator('/community', 'b8b'),
+    exact: true
+  },
+  {
+    path: '/dependable',
+    component: ComponentCreator('/dependable', '382'),
+    exact: true
+  },
+  {
+    path: '/fast',
+    component: ComponentCreator('/fast', '375'),
+    exact: true
+  },
+  {
+    path: '/flexible',
+    component: ComponentCreator('/flexible', '233'),
+    exact: true
+  },
+  {
+    path: '/moss',
+    component: ComponentCreator('/moss', 'f35'),
+    exact: true
+  },
+  {
+    path: '/privacy',
+    component: ComponentCreator('/privacy', '361'),
+    exact: true
+  },
+  {
+    path: '/smart',
+    component: ComponentCreator('/smart', '415'),
     exact: true
   },
   {
