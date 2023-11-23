@@ -1,7 +1,7 @@
 {
   "id": "developers/intro",
   "title": "Introduction",
-  "description": "In Serpent OS, we rely heavily on the D programming language,",
+  "description": "TODO: Document for developers",
   "source": "@site/docs/developers/intro.md",
   "sourceDirName": "developers",
   "slug": "/developers/intro",
@@ -15,9 +15,5 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "devSidebar",
-  "next": {
-    "title": "Coding Style",
-    "permalink": "/docs/category/coding-style"
-  }
+  "sidebar": "devSidebar"
 }

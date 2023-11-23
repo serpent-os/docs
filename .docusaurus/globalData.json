@@ -11,26 +11,6 @@
           "mainDocId": "developers/intro",
           "docs": [
             {
-              "id": "developers/coding_style/basics",
-              "path": "/docs/developers/coding_style/basics",
-              "sidebar": "devSidebar"
-            },
-            {
-              "id": "developers/coding_style/exceptions",
-              "path": "/docs/developers/coding_style/exceptions",
-              "sidebar": "devSidebar"
-            },
-            {
-              "id": "developers/coding_style/safe_d",
-              "path": "/docs/developers/coding_style/safe_d",
-              "sidebar": "devSidebar"
-            },
-            {
-              "id": "developers/coding_style/short_and_sweet",
-              "path": "/docs/developers/coding_style/short_and_sweet",
-              "sidebar": "devSidebar"
-            },
-            {
               "id": "developers/intro",
               "path": "/docs/developers/intro",
               "sidebar": "devSidebar"
@@ -78,11 +58,6 @@
               "id": "users/intro",
               "path": "/docs/users/intro",
               "sidebar": "userSidebar"
-            },
-            {
-              "id": "/category/coding-style",
-              "path": "/docs/category/coding-style",
-              "sidebar": "devSidebar"
             },
             {
               "id": "/category/recipes",

@@ -15,43 +15,6 @@
         "href": "/docs/developers/intro",
         "docId": "developers/intro",
         "unlisted": false
-      },
-      {
-        "type": "category",
-        "label": "Coding Style",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Basics",
-            "href": "/docs/developers/coding_style/basics",
-            "docId": "developers/coding_style/basics",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Exception handling",
-            "href": "/docs/developers/coding_style/exceptions",
-            "docId": "developers/coding_style/exceptions",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "@safe D",
-            "href": "/docs/developers/coding_style/safe_d",
-            "docId": "developers/coding_style/safe_d",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Short and sweet",
-            "href": "/docs/developers/coding_style/short_and_sweet",
-            "docId": "developers/coding_style/short_and_sweet",
-            "unlisted": false
-          }
-        ],
-        "href": "/docs/category/coding-style"
       }
     ],
     "packageSidebar": [
@@ -125,34 +88,10 @@
     ]
   },
   "docs": {
-    "developers/coding_style/basics": {
-      "id": "developers/coding_style/basics",
-      "title": "Basics",
-      "description": "Without a consistent codestyle, say goodbye to quick reviews.",
-      "sidebar": "devSidebar"
-    },
-    "developers/coding_style/exceptions": {
-      "id": "developers/coding_style/exceptions",
-      "title": "Exception handling",
-      "description": "Without proper exception handling, expect a lot of bug reports.",
-      "sidebar": "devSidebar"
-    },
-    "developers/coding_style/safe_d": {
-      "id": "developers/coding_style/safe_d",
-      "title": "@safe D",
-      "description": "Let's face it. Nobody really wants to own the code enabling a CVE.",
-      "sidebar": "devSidebar"
-    },
-    "developers/coding_style/short_and_sweet": {
-      "id": "developers/coding_style/short_and_sweet",
-      "title": "Short and sweet",
-      "description": "Nobody wants to read functions so long that they'd scare a printer.",
-      "sidebar": "devSidebar"
-    },
     "developers/intro": {
       "id": "developers/intro",
       "title": "Introduction",
-      "description": "In Serpent OS, we rely heavily on the D programming language,",
+      "description": "TODO: Document for developers",
       "sidebar": "devSidebar"
     },
     "intro": {

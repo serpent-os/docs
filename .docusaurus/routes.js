@@ -44,51 +44,21 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'df3'),
+    component: ComponentCreator('/docs', '901'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '2d7'),
+        component: ComponentCreator('/docs', '1b8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b65'),
+            component: ComponentCreator('/docs', 'd66'),
             routes: [
-              {
-                path: '/docs/category/coding-style',
-                component: ComponentCreator('/docs/category/coding-style', 'c98'),
-                exact: true,
-                sidebar: "devSidebar"
-              },
               {
                 path: '/docs/category/recipes',
                 component: ComponentCreator('/docs/category/recipes', 'b62'),
                 exact: true,
                 sidebar: "packageSidebar"
-              },
-              {
-                path: '/docs/developers/coding_style/basics',
-                component: ComponentCreator('/docs/developers/coding_style/basics', '718'),
-                exact: true,
-                sidebar: "devSidebar"
-              },
-              {
-                path: '/docs/developers/coding_style/exceptions',
-                component: ComponentCreator('/docs/developers/coding_style/exceptions', 'cfe'),
-                exact: true,
-                sidebar: "devSidebar"
-              },
-              {
-                path: '/docs/developers/coding_style/safe_d',
-                component: ComponentCreator('/docs/developers/coding_style/safe_d', '7ba'),
-                exact: true,
-                sidebar: "devSidebar"
-              },
-              {
-                path: '/docs/developers/coding_style/short_and_sweet',
-                component: ComponentCreator('/docs/developers/coding_style/short_and_sweet', 'f33'),
-                exact: true,
-                sidebar: "devSidebar"
               },
               {
                 path: '/docs/developers/intro',
