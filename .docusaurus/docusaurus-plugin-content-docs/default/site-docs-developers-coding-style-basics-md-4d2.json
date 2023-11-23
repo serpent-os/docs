@@ -1,5 +1,4 @@
 {
-  "unversionedId": "developers/coding_style/basics",
   "id": "developers/coding_style/basics",
   "title": "Basics",
   "description": "Without a consistent codestyle, say goodbye to quick reviews.",
@@ -8,6 +7,7 @@
   "slug": "/developers/coding_style/basics",
   "permalink": "/docs/developers/coding_style/basics",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/basics.md",
   "tags": [],
   "version": "current",

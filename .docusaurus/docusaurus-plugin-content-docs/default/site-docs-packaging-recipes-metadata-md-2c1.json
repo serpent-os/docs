@@ -1,5 +1,4 @@
 {
-  "unversionedId": "packaging/recipes/metadata",
   "id": "packaging/recipes/metadata",
   "title": "Metadata",
   "description": "Recipes provide basic metadata to support discovery and automation.",
@@ -8,6 +7,7 @@
   "slug": "/packaging/recipes/metadata",
   "permalink": "/docs/packaging/recipes/metadata",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/metadata.md",
   "tags": [],
   "version": "current",

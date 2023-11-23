@@ -1,5 +1,4 @@
 {
-  "unversionedId": "developers/coding_style/exceptions",
   "id": "developers/coding_style/exceptions",
   "title": "Exception handling",
   "description": "Without proper exception handling, expect a lot of bug reports.",
@@ -8,6 +7,7 @@
   "slug": "/developers/coding_style/exceptions",
   "permalink": "/docs/developers/coding_style/exceptions",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/exceptions.md",
   "tags": [],
   "version": "current",

@@ -13,7 +13,8 @@
         "type": "link",
         "label": "Introduction",
         "href": "/docs/developers/intro",
-        "docId": "developers/intro"
+        "docId": "developers/intro",
+        "unlisted": false
       },
       {
         "type": "category",
@@ -25,25 +26,29 @@
             "type": "link",
             "label": "Basics",
             "href": "/docs/developers/coding_style/basics",
-            "docId": "developers/coding_style/basics"
+            "docId": "developers/coding_style/basics",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Exception handling",
             "href": "/docs/developers/coding_style/exceptions",
-            "docId": "developers/coding_style/exceptions"
+            "docId": "developers/coding_style/exceptions",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "@safe D",
             "href": "/docs/developers/coding_style/safe_d",
-            "docId": "developers/coding_style/safe_d"
+            "docId": "developers/coding_style/safe_d",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Short and sweet",
             "href": "/docs/developers/coding_style/short_and_sweet",
-            "docId": "developers/coding_style/short_and_sweet"
+            "docId": "developers/coding_style/short_and_sweet",
+            "unlisted": false
           }
         ],
         "href": "/docs/category/coding-style"
@@ -54,13 +59,15 @@
         "type": "link",
         "label": "Introduction",
         "href": "/docs/packaging/intro",
-        "docId": "packaging/intro"
+        "docId": "packaging/intro",
+        "unlisted": false
       },
       {
         "type": "link",
         "label": "Boulder",
         "href": "/docs/packaging/boulder",
-        "docId": "packaging/boulder"
+        "docId": "packaging/boulder",
+        "unlisted": false
       },
       {
         "type": "category",
@@ -72,31 +79,36 @@
             "type": "link",
             "label": "Overview",
             "href": "/docs/packaging/recipes/overview",
-            "docId": "packaging/recipes/overview"
+            "docId": "packaging/recipes/overview",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Upstreams",
             "href": "/docs/packaging/recipes/upstreams",
-            "docId": "packaging/recipes/upstreams"
+            "docId": "packaging/recipes/upstreams",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Metadata",
             "href": "/docs/packaging/recipes/metadata",
-            "docId": "packaging/recipes/metadata"
+            "docId": "packaging/recipes/metadata",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Build dependencies",
             "href": "/docs/packaging/recipes/build_deps",
-            "docId": "packaging/recipes/build_deps"
+            "docId": "packaging/recipes/build_deps",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Package definitions",
             "href": "/docs/packaging/recipes/package_definition",
-            "docId": "packaging/recipes/package_definition"
+            "docId": "packaging/recipes/package_definition",
+            "unlisted": false
           }
         ],
         "href": "/docs/category/recipes"
@@ -107,7 +119,8 @@
         "type": "link",
         "label": "Introduction",
         "href": "/docs/users/intro",
-        "docId": "users/intro"
+        "docId": "users/intro",
+        "unlisted": false
       }
     ]
   },

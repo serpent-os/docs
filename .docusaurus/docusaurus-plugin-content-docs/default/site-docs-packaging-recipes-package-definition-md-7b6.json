@@ -1,5 +1,4 @@
 {
-  "unversionedId": "packaging/recipes/package_definition",
   "id": "packaging/recipes/package_definition",
   "title": "Package definitions",
   "description": "A recipe build can result in a number of packages being produced from a single source, through an automatic splitting system. Certain subpackages are already defined in the boulder project to ensure consistency of package splitting and names, whereas some may be explicitly defined in a recipe to fine-tune the results.",
@@ -8,6 +7,7 @@
   "slug": "/packaging/recipes/package_definition",
   "permalink": "/docs/packaging/recipes/package_definition",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/package_definition.md",
   "tags": [],
   "version": "current",

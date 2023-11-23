@@ -1,5 +1,4 @@
 {
-  "unversionedId": "developers/coding_style/short_and_sweet",
   "id": "developers/coding_style/short_and_sweet",
   "title": "Short and sweet",
   "description": "Nobody wants to read functions so long that they'd scare a printer.",
@@ -8,6 +7,7 @@
   "slug": "/developers/coding_style/short_and_sweet",
   "permalink": "/docs/developers/coding_style/short_and_sweet",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/short_and_sweet.md",
   "tags": [],
   "version": "current",

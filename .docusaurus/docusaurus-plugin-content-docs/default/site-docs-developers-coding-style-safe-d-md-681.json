@@ -1,5 +1,4 @@
 {
-  "unversionedId": "developers/coding_style/safe_d",
   "id": "developers/coding_style/safe_d",
   "title": "@safe D",
   "description": "Let's face it. Nobody really wants to own the code enabling a CVE.",
@@ -8,6 +7,7 @@
   "slug": "/developers/coding_style/safe_d",
   "permalink": "/docs/developers/coding_style/safe_d",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/coding_style/safe_d.md",
   "tags": [],
   "version": "current",

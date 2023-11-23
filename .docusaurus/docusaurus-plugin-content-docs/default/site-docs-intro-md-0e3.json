@@ -1,5 +1,4 @@
 {
-  "unversionedId": "intro",
   "id": "intro",
   "title": "intro",
   "description": "",
@@ -8,6 +7,7 @@
   "slug": "/intro",
   "permalink": "/docs/intro",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",

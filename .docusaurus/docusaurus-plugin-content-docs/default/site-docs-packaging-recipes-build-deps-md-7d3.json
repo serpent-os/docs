@@ -1,5 +1,4 @@
 {
-  "unversionedId": "packaging/recipes/build_deps",
   "id": "packaging/recipes/build_deps",
   "title": "Build dependencies",
   "description": "Every build of a recipe by boulder will create an entirely new root, with only the absolute minimum support dependencies in place.",
@@ -8,6 +7,7 @@
   "slug": "/packaging/recipes/build_deps",
   "permalink": "/docs/packaging/recipes/build_deps",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/recipes/build_deps.md",
   "tags": [],
   "version": "current",

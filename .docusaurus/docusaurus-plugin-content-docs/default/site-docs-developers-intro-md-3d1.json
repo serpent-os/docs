@@ -1,5 +1,4 @@
 {
-  "unversionedId": "developers/intro",
   "id": "developers/intro",
   "title": "Introduction",
   "description": "In Serpent OS, we rely heavily on the D programming language,",
@@ -8,6 +7,7 @@
   "slug": "/developers/intro",
   "permalink": "/docs/developers/intro",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/intro.md",
   "tags": [],
   "version": "current",

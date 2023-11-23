@@ -49,12 +49,18 @@
     },
     "content": "content---moss-1-ee-356"
   },
-  "/docs-a22": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/docs-df3": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-13-c-7c1"
-    },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    }
+  },
+  "/docs-2d7": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-b65": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/coding-style-c98": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
