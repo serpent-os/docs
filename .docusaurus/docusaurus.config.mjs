@@ -11,6 +11,8 @@ export default {
   "baseUrl": "/",
   "organizationName": "serpent-os",
   "projectName": "docs",
+  "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

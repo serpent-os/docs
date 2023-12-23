@@ -1,116 +1,66 @@
 {
-  "/__docusaurus/debug-d72": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-8-ae-ccb"
-    }
-  },
-  "/__docusaurus/debug/config-417": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-8-ae-ccb"
-    }
-  },
-  "/__docusaurus/debug/content-a39": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-8-ae-ccb"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-182": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-8-ae-ccb"
-    }
-  },
-  "/__docusaurus/debug/metadata-9b4": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-8-ae-ccb"
-    }
-  },
-  "/__docusaurus/debug/registry-de5": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-8-ae-ccb"
-    }
-  },
-  "/__docusaurus/debug/routes-bd0": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-8-ae-ccb"
-    }
-  },
-  "/moss-f35": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---moss-4-c-9-acd"
-    },
-    "content": "content---moss-1-ee-356"
-  },
   "/docs-901": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docs-13-c-7c1"
+      "plugin": "13c3a4ed"
     }
   },
   "/docs-1b8": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
   "/docs-d66": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/category/recipes-b62": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-recipescb-0-301"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "cb040d95"
   },
   "/docs/developers/intro-554": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-developers-intro-3-d-1-930"
+    "__comp": "17896441",
+    "content": "3d14bff3"
   },
   "/docs/intro-e84": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/docs/packaging/boulder-f54": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-packaging-bouldera-3-c-08d"
+    "__comp": "17896441",
+    "content": "a3ce6d06"
   },
   "/docs/packaging/intro-a33": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-packaging-introf-69-94b"
+    "__comp": "17896441",
+    "content": "f69d2c45"
   },
   "/docs/packaging/recipes/build_deps-549": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-packaging-recipes-build-deps-7-d-3-cbd"
+    "__comp": "17896441",
+    "content": "7d31c4d8"
   },
   "/docs/packaging/recipes/metadata-c27": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-packaging-recipes-metadata-2-c-1-0bf"
+    "__comp": "17896441",
+    "content": "2c1cf3f5"
   },
   "/docs/packaging/recipes/overview-be3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-packaging-recipes-overview-344-1e0"
+    "__comp": "17896441",
+    "content": "344cf129"
   },
   "/docs/packaging/recipes/package_definition-dff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-packaging-recipes-package-definition-7-b-6-107"
+    "__comp": "17896441",
+    "content": "7b6f35b7"
   },
   "/docs/packaging/recipes/upstreams-e2a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-packaging-recipes-upstreamsb-7-a-a37"
+    "__comp": "17896441",
+    "content": "b7a64ecf"
   },
   "/docs/users/intro-420": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-users-intro-7-c-6-878"
+    "__comp": "17896441",
+    "content": "7c69c5c6"
   },
   "/-5ac": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---moss-4-c-9-acd"
+      "plugin": "4c9d6ab0"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
