@@ -6,4 +6,4 @@ Built using Docusaurus.
 
 ## Test locally
 
-`npm start`
+`yarn start'`
