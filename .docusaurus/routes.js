@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '901'),
+    component: ComponentCreator('/docs', '01c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1b8'),
+        component: ComponentCreator('/docs', '19d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd66'),
+            component: ComponentCreator('/docs', '01f'),
             routes: [
               {
                 path: '/docs/category/recipes',
@@ -56,8 +56,38 @@ export default [
                 sidebar: "packageSidebar"
               },
               {
+                path: '/docs/category/stone-format',
+                component: ComponentCreator('/docs/category/stone-format', '61e'),
+                exact: true,
+                sidebar: "devSidebar"
+              },
+              {
+                path: '/docs/category/v1',
+                component: ComponentCreator('/docs/category/v1', '6d4'),
+                exact: true,
+                sidebar: "devSidebar"
+              },
+              {
                 path: '/docs/developers/intro',
                 component: ComponentCreator('/docs/developers/intro', '554'),
+                exact: true,
+                sidebar: "devSidebar"
+              },
+              {
+                path: '/docs/developers/stone/header',
+                component: ComponentCreator('/docs/developers/stone/header', 'f66'),
+                exact: true,
+                sidebar: "devSidebar"
+              },
+              {
+                path: '/docs/developers/stone/overview',
+                component: ComponentCreator('/docs/developers/stone/overview', '652'),
+                exact: true,
+                sidebar: "devSidebar"
+              },
+              {
+                path: '/docs/developers/stone/v1/header',
+                component: ComponentCreator('/docs/developers/stone/v1/header', 'dc8'),
                 exact: true,
                 sidebar: "devSidebar"
               },

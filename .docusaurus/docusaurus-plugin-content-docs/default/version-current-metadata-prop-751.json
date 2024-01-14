@@ -15,6 +15,45 @@
         "href": "/docs/developers/intro",
         "docId": "developers/intro",
         "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Stone Format",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/developers/stone/overview",
+            "docId": "developers/stone/overview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Header",
+            "href": "/docs/developers/stone/header",
+            "docId": "developers/stone/header",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "v1",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Header",
+                "href": "/docs/developers/stone/v1/header",
+                "docId": "developers/stone/v1/header",
+                "unlisted": false
+              }
+            ],
+            "href": "/docs/category/v1"
+          }
+        ],
+        "href": "/docs/category/stone-format"
       }
     ],
     "packageSidebar": [
@@ -91,7 +130,25 @@
     "developers/intro": {
       "id": "developers/intro",
       "title": "Introduction",
-      "description": "TODO: Document for developers",
+      "description": "Serpent OS employs some techniques and technologies that require further documentation in order for other developers to not only understand our ecosystem, but extend it.",
+      "sidebar": "devSidebar"
+    },
+    "developers/stone/header": {
+      "id": "developers/stone/header",
+      "title": "Header",
+      "description": "Stone archives are encoded with a version agnostic header, ensuring that version-specific",
+      "sidebar": "devSidebar"
+    },
+    "developers/stone/overview": {
+      "id": "developers/stone/overview",
+      "title": "Overview",
+      "description": "Serpent OS uses a custom binary format for the distribution of packages, aka the .stone format.",
+      "sidebar": "devSidebar"
+    },
+    "developers/stone/v1/header": {
+      "id": "developers/stone/v1/header",
+      "title": "Header",
+      "description": "The v1 header contains 3 fields to denote the type of the .stone file as well as a count",
       "sidebar": "devSidebar"
     },
     "intro": {

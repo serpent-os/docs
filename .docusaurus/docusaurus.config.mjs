@@ -99,7 +99,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 Serpent OS Developers. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Serpent OS Developers. Built with Docusaurus."
     },
     "prism": {
       "theme": {

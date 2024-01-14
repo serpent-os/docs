@@ -1,7 +1,7 @@
 {
   "id": "developers/intro",
   "title": "Introduction",
-  "description": "TODO: Document for developers",
+  "description": "Serpent OS employs some techniques and technologies that require further documentation in order for other developers to not only understand our ecosystem, but extend it.",
   "source": "@site/docs/developers/intro.md",
   "sourceDirName": "developers",
   "slug": "/developers/intro",
@@ -15,5 +15,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "devSidebar"
+  "sidebar": "devSidebar",
+  "next": {
+    "title": "Stone Format",
+    "permalink": "/docs/category/stone-format"
+  }
 }

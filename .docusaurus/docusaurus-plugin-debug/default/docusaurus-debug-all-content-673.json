@@ -22,7 +22,7 @@
             {
               "id": "developers/intro",
               "title": "Introduction",
-              "description": "TODO: Document for developers",
+              "description": "Serpent OS employs some techniques and technologies that require further documentation in order for other developers to not only understand our ecosystem, but extend it.",
               "source": "@site/docs/developers/intro.md",
               "sourceDirName": "developers",
               "slug": "/developers/intro",
@@ -36,7 +36,88 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "devSidebar"
+              "sidebar": "devSidebar",
+              "next": {
+                "title": "Stone Format",
+                "permalink": "/docs/category/stone-format"
+              }
+            },
+            {
+              "id": "developers/stone/header",
+              "title": "Header",
+              "description": "Stone archives are encoded with a version agnostic header, ensuring that version-specific",
+              "source": "@site/docs/developers/stone/header.md",
+              "sourceDirName": "developers/stone",
+              "slug": "/developers/stone/header",
+              "permalink": "/docs/developers/stone/header",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/stone/header.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "devSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/developers/stone/overview"
+              },
+              "next": {
+                "title": "v1",
+                "permalink": "/docs/category/v1"
+              }
+            },
+            {
+              "id": "developers/stone/overview",
+              "title": "Overview",
+              "description": "Serpent OS uses a custom binary format for the distribution of packages, aka the .stone format.",
+              "source": "@site/docs/developers/stone/overview.md",
+              "sourceDirName": "developers/stone",
+              "slug": "/developers/stone/overview",
+              "permalink": "/docs/developers/stone/overview",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/stone/overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "devSidebar",
+              "previous": {
+                "title": "Stone Format",
+                "permalink": "/docs/category/stone-format"
+              },
+              "next": {
+                "title": "Header",
+                "permalink": "/docs/developers/stone/header"
+              }
+            },
+            {
+              "id": "developers/stone/v1/header",
+              "title": "Header",
+              "description": "The v1 header contains 3 fields to denote the type of the .stone file as well as a count",
+              "source": "@site/docs/developers/stone/v1/header.md",
+              "sourceDirName": "developers/stone/v1",
+              "slug": "/developers/stone/v1/header",
+              "permalink": "/docs/developers/stone/v1/header",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/stone/v1/header.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "devSidebar",
+              "previous": {
+                "title": "v1",
+                "permalink": "/docs/category/v1"
+              }
             },
             {
               "id": "intro",
@@ -257,6 +338,46 @@
               {
                 "type": "doc",
                 "id": "developers/intro"
+              },
+              {
+                "type": "category",
+                "label": "Stone Format",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "developers/stone/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "developers/stone/header"
+                  },
+                  {
+                    "type": "category",
+                    "label": "v1",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "developers/stone/v1/header"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "v1 binary format",
+                      "slug": "/category/v1",
+                      "permalink": "/docs/category/v1"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "The binary format of Serpent OS packages",
+                  "slug": "/category/stone-format",
+                  "permalink": "/docs/category/stone-format"
+                }
               }
             ],
             "packageSidebar": [

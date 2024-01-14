@@ -1,0 +1,16 @@
+{
+  "title": "Stone Format",
+  "description": "The binary format of Serpent OS packages",
+  "slug": "/category/stone-format",
+  "permalink": "/docs/category/stone-format",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/developers/intro"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/developers/stone/overview"
+    }
+  }
+}

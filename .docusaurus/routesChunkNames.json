@@ -42,26 +42,46 @@
       "plugin": "plugin---docusaurus-debug-8-ae-ccb"
     }
   },
-  "/docs-901": {
+  "/docs-01c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-13-c-7c1"
     }
   },
-  "/docs-1b8": {
+  "/docs-19d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-d66": {
+  "/docs-01f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/recipes-b62": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-recipescb-0-301"
   },
+  "/docs/category/stone-format-61e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-stone-format-6-fd-66f"
+  },
+  "/docs/category/v1-6d4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-v-195-b-d8f"
+  },
   "/docs/developers/intro-554": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-developers-intro-3-d-1-930"
+  },
+  "/docs/developers/stone/header-f66": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developers-stone-headerea-7-b2c"
+  },
+  "/docs/developers/stone/overview-652": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developers-stone-overviewd-90-041"
+  },
+  "/docs/developers/stone/v1/header-dc8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developers-stone-v-1-header-4-c-9-dcc"
   },
   "/docs/intro-e84": {
     "__comp": "__comp---theme-doc-item-178-a40",

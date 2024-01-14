@@ -16,6 +16,21 @@
               "sidebar": "devSidebar"
             },
             {
+              "id": "developers/stone/header",
+              "path": "/docs/developers/stone/header",
+              "sidebar": "devSidebar"
+            },
+            {
+              "id": "developers/stone/overview",
+              "path": "/docs/developers/stone/overview",
+              "sidebar": "devSidebar"
+            },
+            {
+              "id": "developers/stone/v1/header",
+              "path": "/docs/developers/stone/v1/header",
+              "sidebar": "devSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro"
             },
@@ -58,6 +73,16 @@
               "id": "users/intro",
               "path": "/docs/users/intro",
               "sidebar": "userSidebar"
+            },
+            {
+              "id": "/category/stone-format",
+              "path": "/docs/category/stone-format",
+              "sidebar": "devSidebar"
+            },
+            {
+              "id": "/category/v1",
+              "path": "/docs/category/v1",
+              "sidebar": "devSidebar"
             },
             {
               "id": "/category/recipes",

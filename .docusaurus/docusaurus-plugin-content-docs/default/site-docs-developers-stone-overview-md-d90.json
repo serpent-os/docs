@@ -1,0 +1,27 @@
+{
+  "id": "developers/stone/overview",
+  "title": "Overview",
+  "description": "Serpent OS uses a custom binary format for the distribution of packages, aka the .stone format.",
+  "source": "@site/docs/developers/stone/overview.md",
+  "sourceDirName": "developers/stone",
+  "slug": "/developers/stone/overview",
+  "permalink": "/docs/developers/stone/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/stone/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Stone Format",
+    "permalink": "/docs/category/stone-format"
+  },
+  "next": {
+    "title": "Header",
+    "permalink": "/docs/developers/stone/header"
+  }
+}

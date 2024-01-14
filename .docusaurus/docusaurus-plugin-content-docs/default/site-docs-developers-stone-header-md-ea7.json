@@ -1,0 +1,27 @@
+{
+  "id": "developers/stone/header",
+  "title": "Header",
+  "description": "Stone archives are encoded with a version agnostic header, ensuring that version-specific",
+  "source": "@site/docs/developers/stone/header.md",
+  "sourceDirName": "developers/stone",
+  "slug": "/developers/stone/header",
+  "permalink": "/docs/developers/stone/header",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/stone/header.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/developers/stone/overview"
+  },
+  "next": {
+    "title": "v1",
+    "permalink": "/docs/category/v1"
+  }
+}

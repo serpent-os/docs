@@ -1,0 +1,23 @@
+{
+  "id": "developers/stone/v1/header",
+  "title": "Header",
+  "description": "The v1 header contains 3 fields to denote the type of the .stone file as well as a count",
+  "source": "@site/docs/developers/stone/v1/header.md",
+  "sourceDirName": "developers/stone/v1",
+  "slug": "/developers/stone/v1/header",
+  "permalink": "/docs/developers/stone/v1/header",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/developers/stone/v1/header.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "devSidebar",
+  "previous": {
+    "title": "v1",
+    "permalink": "/docs/category/v1"
+  }
+}
