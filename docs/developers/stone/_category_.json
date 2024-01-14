@@ -1,0 +1,9 @@
+{
+    "label": "Stone Format",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "The binary format of Serpent OS packages"
+    }
+  }
+  
