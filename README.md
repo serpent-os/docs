@@ -2,7 +2,7 @@
 
 In progress documentation for Serpent OS.
 
-Built using Docusaurus.
+Built using Docusaurus..
 
 ## Test locally
 
