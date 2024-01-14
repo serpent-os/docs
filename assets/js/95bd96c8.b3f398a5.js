@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[118],{2269:e=>{e.exports=JSON.parse('{"title":"v1","description":"v1 binary format","slug":"/category/v1","permalink":"/docs/category/v1","navigation":{"previous":{"title":"Header","permalink":"/docs/developers/stone/header"},"next":{"title":"Header","permalink":"/docs/developers/stone/v1/header"}}}')}}]);
