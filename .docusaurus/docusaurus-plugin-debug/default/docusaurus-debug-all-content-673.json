@@ -367,6 +367,87 @@
               "previous": {
                 "title": "Overview",
                 "permalink": "/docs/packaging/triggers/overview"
+              },
+              "next": {
+                "title": "System Users",
+                "permalink": "/docs/category/system-users"
+              }
+            },
+            {
+              "id": "packaging/users/groups",
+              "title": "Defining Groups",
+              "description": "Refer to the JSON Group Record documentation for information on all supported fields.",
+              "source": "@site/docs/packaging/users/groups.md",
+              "sourceDirName": "packaging/users",
+              "slug": "/packaging/users/groups",
+              "permalink": "/docs/packaging/users/groups",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/users/groups.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/packaging/users/overview"
+              },
+              "next": {
+                "title": "Defining Users",
+                "permalink": "/docs/packaging/users/"
+              }
+            },
+            {
+              "id": "packaging/users/overview",
+              "title": "Overview",
+              "description": "As a stateless distribution, Serpent OS does not permit the modification of /etc/passwd and co by",
+              "source": "@site/docs/packaging/users/overview.md",
+              "sourceDirName": "packaging/users",
+              "slug": "/packaging/users/overview",
+              "permalink": "/docs/packaging/users/overview",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/users/overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "System Users",
+                "permalink": "/docs/category/system-users"
+              },
+              "next": {
+                "title": "Defining Groups",
+                "permalink": "/docs/packaging/users/groups"
+              }
+            },
+            {
+              "id": "packaging/users/users",
+              "title": "Defining Users",
+              "description": "System accounts should always be marked as locked. Refer to the JSON User Record documentation for information on all supported fields.",
+              "source": "@site/docs/packaging/users/users.md",
+              "sourceDirName": "packaging/users",
+              "slug": "/packaging/users/",
+              "permalink": "/docs/packaging/users/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/users/users.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Defining Groups",
+                "permalink": "/docs/packaging/users/groups"
               }
             },
             {
@@ -497,6 +578,32 @@
                   "description": "Triggers are system actions run during package installation",
                   "slug": "/category/triggers",
                   "permalink": "/docs/category/triggers"
+                }
+              },
+              {
+                "type": "category",
+                "label": "System Users",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "packaging/users/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "packaging/users/groups"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "packaging/users/users"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Stateless management of packaging-based system accounts",
+                  "slug": "/category/system-users",
+                  "permalink": "/docs/category/system-users"
                 }
               }
             ],

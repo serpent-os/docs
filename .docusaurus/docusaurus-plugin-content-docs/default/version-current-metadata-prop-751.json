@@ -137,6 +137,36 @@
           }
         ],
         "href": "/docs/category/triggers"
+      },
+      {
+        "type": "category",
+        "label": "System Users",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/packaging/users/overview",
+            "docId": "packaging/users/overview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Defining Groups",
+            "href": "/docs/packaging/users/groups",
+            "docId": "packaging/users/groups",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Defining Users",
+            "href": "/docs/packaging/users/",
+            "docId": "packaging/users/users",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/system-users"
       }
     ],
     "userSidebar": [
@@ -231,6 +261,24 @@
       "id": "packaging/triggers/tx_triggers",
       "title": "Transaction Triggers",
       "description": "Transactional scope triggers (tx triggers) are run after the new filesystem transaction has been",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/users/groups": {
+      "id": "packaging/users/groups",
+      "title": "Defining Groups",
+      "description": "Refer to the JSON Group Record documentation for information on all supported fields.",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/users/overview": {
+      "id": "packaging/users/overview",
+      "title": "Overview",
+      "description": "As a stateless distribution, Serpent OS does not permit the modification of /etc/passwd and co by",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/users/users": {
+      "id": "packaging/users/users",
+      "title": "Defining Users",
+      "description": "System accounts should always be marked as locked. Refer to the JSON User Record documentation for information on all supported fields.",
       "sidebar": "packageSidebar"
     },
     "users/intro": {

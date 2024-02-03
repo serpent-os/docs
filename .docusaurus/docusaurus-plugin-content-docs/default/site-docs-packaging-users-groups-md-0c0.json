@@ -1,0 +1,27 @@
+{
+  "id": "packaging/users/groups",
+  "title": "Defining Groups",
+  "description": "Refer to the JSON Group Record documentation for information on all supported fields.",
+  "source": "@site/docs/packaging/users/groups.md",
+  "sourceDirName": "packaging/users",
+  "slug": "/packaging/users/groups",
+  "permalink": "/docs/packaging/users/groups",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/users/groups.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "packageSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/packaging/users/overview"
+  },
+  "next": {
+    "title": "Defining Users",
+    "permalink": "/docs/packaging/users/"
+  }
+}

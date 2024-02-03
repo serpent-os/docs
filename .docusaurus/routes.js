@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a02'),
+    component: ComponentCreator('/docs', 'b78'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '834'),
+        component: ComponentCreator('/docs', '09e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '687'),
+            component: ComponentCreator('/docs', '6ed'),
             routes: [
               {
                 path: '/docs/category/recipes',
@@ -60,6 +60,12 @@ export default [
                 component: ComponentCreator('/docs/category/stone-format', '61e'),
                 exact: true,
                 sidebar: "devSidebar"
+              },
+              {
+                path: '/docs/category/system-users',
+                component: ComponentCreator('/docs/category/system-users', 'a8a'),
+                exact: true,
+                sidebar: "packageSidebar"
               },
               {
                 path: '/docs/category/triggers',
@@ -153,6 +159,24 @@ export default [
               {
                 path: '/docs/packaging/triggers/tx_triggers',
                 component: ComponentCreator('/docs/packaging/triggers/tx_triggers', '64b'),
+                exact: true,
+                sidebar: "packageSidebar"
+              },
+              {
+                path: '/docs/packaging/users',
+                component: ComponentCreator('/docs/packaging/users', '417'),
+                exact: true,
+                sidebar: "packageSidebar"
+              },
+              {
+                path: '/docs/packaging/users/groups',
+                component: ComponentCreator('/docs/packaging/users/groups', '1b9'),
+                exact: true,
+                sidebar: "packageSidebar"
+              },
+              {
+                path: '/docs/packaging/users/overview',
+                component: ComponentCreator('/docs/packaging/users/overview', 'e14'),
                 exact: true,
                 sidebar: "packageSidebar"
               },

@@ -1,0 +1,23 @@
+{
+  "id": "packaging/users/users",
+  "title": "Defining Users",
+  "description": "System accounts should always be marked as locked. Refer to the JSON User Record documentation for information on all supported fields.",
+  "source": "@site/docs/packaging/users/users.md",
+  "sourceDirName": "packaging/users",
+  "slug": "/packaging/users/",
+  "permalink": "/docs/packaging/users/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/users/users.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "packageSidebar",
+  "previous": {
+    "title": "Defining Groups",
+    "permalink": "/docs/packaging/users/groups"
+  }
+}

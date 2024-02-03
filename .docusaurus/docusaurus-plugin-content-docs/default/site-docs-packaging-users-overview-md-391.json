@@ -1,0 +1,27 @@
+{
+  "id": "packaging/users/overview",
+  "title": "Overview",
+  "description": "As a stateless distribution, Serpent OS does not permit the modification of /etc/passwd and co by",
+  "source": "@site/docs/packaging/users/overview.md",
+  "sourceDirName": "packaging/users",
+  "slug": "/packaging/users/overview",
+  "permalink": "/docs/packaging/users/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/users/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "packageSidebar",
+  "previous": {
+    "title": "System Users",
+    "permalink": "/docs/category/system-users"
+  },
+  "next": {
+    "title": "Defining Groups",
+    "permalink": "/docs/packaging/users/groups"
+  }
+}

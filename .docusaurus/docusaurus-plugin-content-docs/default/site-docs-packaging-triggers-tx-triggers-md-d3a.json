@@ -19,5 +19,9 @@
   "previous": {
     "title": "Overview",
     "permalink": "/docs/packaging/triggers/overview"
+  },
+  "next": {
+    "title": "System Users",
+    "permalink": "/docs/category/system-users"
   }
 }

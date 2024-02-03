@@ -1,0 +1,9 @@
+{
+    "label": "System Users",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Stateless management of packaging-based system accounts"
+    }
+  }
+  

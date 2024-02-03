@@ -294,7 +294,11 @@ export default {
         ]
       },
       "additionalLanguages": [
-        "d"
+        "d",
+        "rust",
+        "bash",
+        "yaml",
+        "json"
       ],
       "magicComments": [
         {
