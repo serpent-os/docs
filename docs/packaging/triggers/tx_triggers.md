@@ -9,8 +9,7 @@ blitted to disk, and just before the new `/usr` tree is activated. These trigger
 container and have read-write access to the new `/usr` tree, but only have read-only access to the `/etc`
 directory.
 
-Currently transaction triggers must be installed in `/usr/share/moss/triggers/pre.d` with a `.yaml` suffix.
-In a future update to moss this path will be changed to `/usr/share/moss/triggers/tx.d`
+Transaction triggers must be installed in `/usr/share/moss/triggers/tx.d` with a `.yaml` suffix.
 
 ## Sample trigger
 
@@ -36,4 +35,10 @@ paths:
         handlers:
             - depmod
         type: directory
+```
+
+To install this trigger in your recipe:
+
+```shell
+%install_file %(pkgdir)/trigger.yaml %(installroot)/usr/share/moss/triggers/tx.d/gdk_pixbuf.yaml
 ```
