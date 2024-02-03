@@ -1,0 +1,23 @@
+{
+  "id": "packaging/triggers/tx_triggers",
+  "title": "Transaction Triggers",
+  "description": "Transactional scope triggers (tx triggers) are run after the new filesystem transaction has been",
+  "source": "@site/docs/packaging/triggers/tx_triggers.md",
+  "sourceDirName": "packaging/triggers",
+  "slug": "/packaging/triggers/tx_triggers",
+  "permalink": "/docs/packaging/triggers/tx_triggers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/triggers/tx_triggers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "packageSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/packaging/triggers/overview"
+  }
+}

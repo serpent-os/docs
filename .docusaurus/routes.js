@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '01c'),
+    component: ComponentCreator('/docs', 'a02'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '19d'),
+        component: ComponentCreator('/docs', '834'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '01f'),
+            component: ComponentCreator('/docs', '687'),
             routes: [
               {
                 path: '/docs/category/recipes',
@@ -60,6 +60,12 @@ export default [
                 component: ComponentCreator('/docs/category/stone-format', '61e'),
                 exact: true,
                 sidebar: "devSidebar"
+              },
+              {
+                path: '/docs/category/triggers',
+                component: ComponentCreator('/docs/category/triggers', '1a1'),
+                exact: true,
+                sidebar: "packageSidebar"
               },
               {
                 path: '/docs/category/v1',
@@ -135,6 +141,18 @@ export default [
               {
                 path: '/docs/packaging/recipes/upstreams',
                 component: ComponentCreator('/docs/packaging/recipes/upstreams', 'e2a'),
+                exact: true,
+                sidebar: "packageSidebar"
+              },
+              {
+                path: '/docs/packaging/triggers/overview',
+                component: ComponentCreator('/docs/packaging/triggers/overview', '78e'),
+                exact: true,
+                sidebar: "packageSidebar"
+              },
+              {
+                path: '/docs/packaging/triggers/tx_triggers',
+                component: ComponentCreator('/docs/packaging/triggers/tx_triggers', '64b'),
                 exact: true,
                 sidebar: "packageSidebar"
               },

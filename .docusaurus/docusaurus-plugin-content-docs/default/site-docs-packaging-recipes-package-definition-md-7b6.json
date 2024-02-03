@@ -19,5 +19,9 @@
   "previous": {
     "title": "Build dependencies",
     "permalink": "/docs/packaging/recipes/build_deps"
+  },
+  "next": {
+    "title": "Triggers",
+    "permalink": "/docs/category/triggers"
   }
 }

@@ -70,6 +70,16 @@
               "sidebar": "packageSidebar"
             },
             {
+              "id": "packaging/triggers/overview",
+              "path": "/docs/packaging/triggers/overview",
+              "sidebar": "packageSidebar"
+            },
+            {
+              "id": "packaging/triggers/tx_triggers",
+              "path": "/docs/packaging/triggers/tx_triggers",
+              "sidebar": "packageSidebar"
+            },
+            {
               "id": "users/intro",
               "path": "/docs/users/intro",
               "sidebar": "userSidebar"
@@ -87,6 +97,11 @@
             {
               "id": "/category/recipes",
               "path": "/docs/category/recipes",
+              "sidebar": "packageSidebar"
+            },
+            {
+              "id": "/category/triggers",
+              "path": "/docs/category/triggers",
               "sidebar": "packageSidebar"
             }
           ],

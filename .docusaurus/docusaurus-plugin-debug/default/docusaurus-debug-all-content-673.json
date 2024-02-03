@@ -286,6 +286,10 @@
               "previous": {
                 "title": "Build dependencies",
                 "permalink": "/docs/packaging/recipes/build_deps"
+              },
+              "next": {
+                "title": "Triggers",
+                "permalink": "/docs/category/triggers"
               }
             },
             {
@@ -313,6 +317,56 @@
               "next": {
                 "title": "Metadata",
                 "permalink": "/docs/packaging/recipes/metadata"
+              }
+            },
+            {
+              "id": "packaging/triggers/overview",
+              "title": "Overview",
+              "description": "Serpent OS supports the use of triggers, or actions, that run at the end of package installations.",
+              "source": "@site/docs/packaging/triggers/overview.md",
+              "sourceDirName": "packaging/triggers",
+              "slug": "/packaging/triggers/overview",
+              "permalink": "/docs/packaging/triggers/overview",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/triggers/overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Triggers",
+                "permalink": "/docs/category/triggers"
+              },
+              "next": {
+                "title": "Transaction Triggers",
+                "permalink": "/docs/packaging/triggers/tx_triggers"
+              }
+            },
+            {
+              "id": "packaging/triggers/tx_triggers",
+              "title": "Transaction Triggers",
+              "description": "Transactional scope triggers (tx triggers) are run after the new filesystem transaction has been",
+              "source": "@site/docs/packaging/triggers/tx_triggers.md",
+              "sourceDirName": "packaging/triggers",
+              "slug": "/packaging/triggers/tx_triggers",
+              "permalink": "/docs/packaging/triggers/tx_triggers",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/packaging/triggers/tx_triggers.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "packageSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/packaging/triggers/overview"
               }
             },
             {
@@ -421,6 +475,28 @@
                   "description": "Recipes are at the heart of Serpent OS packaging",
                   "slug": "/category/recipes",
                   "permalink": "/docs/category/recipes"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Triggers",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "packaging/triggers/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "packaging/triggers/tx_triggers"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Triggers are system actions run during package installation",
+                  "slug": "/category/triggers",
+                  "permalink": "/docs/category/triggers"
                 }
               }
             ],

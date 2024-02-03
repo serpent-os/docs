@@ -114,6 +114,29 @@
           }
         ],
         "href": "/docs/category/recipes"
+      },
+      {
+        "type": "category",
+        "label": "Triggers",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/packaging/triggers/overview",
+            "docId": "packaging/triggers/overview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Transaction Triggers",
+            "href": "/docs/packaging/triggers/tx_triggers",
+            "docId": "packaging/triggers/tx_triggers",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/triggers"
       }
     ],
     "userSidebar": [
@@ -196,6 +219,18 @@
       "id": "packaging/recipes/upstreams",
       "title": "Upstreams",
       "description": "The majority of packages are built using upstream release sources. While it is possible to create packages manually from local assets, the bulk of packages take an upstream tarball and build it.",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/triggers/overview": {
+      "id": "packaging/triggers/overview",
+      "title": "Overview",
+      "description": "Serpent OS supports the use of triggers, or actions, that run at the end of package installations.",
+      "sidebar": "packageSidebar"
+    },
+    "packaging/triggers/tx_triggers": {
+      "id": "packaging/triggers/tx_triggers",
+      "title": "Transaction Triggers",
+      "description": "Transactional scope triggers (tx triggers) are run after the new filesystem transaction has been",
       "sidebar": "packageSidebar"
     },
     "users/intro": {

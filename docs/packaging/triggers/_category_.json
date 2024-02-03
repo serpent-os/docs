@@ -1,0 +1,9 @@
+{
+    "label": "Triggers",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Triggers are system actions run during package installation"
+    }
+  }
+  
