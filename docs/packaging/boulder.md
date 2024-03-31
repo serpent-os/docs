@@ -17,8 +17,6 @@ Unless you are using Serpent OS directly, you will need to manually install the 
 
 For instructions, please visit: https://github.com/serpent-os/onboarding.
 
-Ensure that `ldc2` is installed and available in the `$PATH`.
-
 ```bash
 curl https://raw.githubusercontent.com/serpent-os/onboarding/main/init.sh |bash
 ```
