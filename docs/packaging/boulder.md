@@ -13,10 +13,6 @@ Unless you are using Serpent OS directly, you will need to manually install the 
 
 :::
 
-### Installation via onboarding
+### Getting boulder (and moss)
 
-For instructions, please visit: https://github.com/serpent-os/onboarding.
-
-```bash
-curl https://raw.githubusercontent.com/serpent-os/onboarding/main/init.sh |bash
-```
+For onboarding instructions, please visit the [onboarding section](https://github.com/serpent-os/moss?tab=readme-ov-file#onboarding).
