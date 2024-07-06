@@ -2,8 +2,9 @@
 
 In progress documentation for Serpent OS.
 
-Built using Docusaurus..
+Built using Docusaurus.
 
-## Test locally
+## Review changes locally
 
-`yarn start'`
+`yarn add docusaurus`
+`yarn start`
