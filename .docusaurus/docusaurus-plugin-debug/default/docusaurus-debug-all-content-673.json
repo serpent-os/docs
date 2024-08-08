@@ -451,6 +451,58 @@
               }
             },
             {
+              "id": "users/desktops/cosmic",
+              "title": "COSMIC",
+              "description": "The COSMIC Desktop from System76 is a highly popular",
+              "source": "@site/docs/users/desktops/cosmic.md",
+              "sourceDirName": "users/desktops",
+              "slug": "/users/desktops/cosmic",
+              "permalink": "/docs/users/desktops/cosmic",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/users/desktops/cosmic.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "COSMIC"
+              },
+              "sidebar": "userSidebar",
+              "previous": {
+                "title": "Desktops",
+                "permalink": "/docs/category/desktops"
+              },
+              "next": {
+                "title": "GNOME Desktop",
+                "permalink": "/docs/users/desktops/gnome"
+              }
+            },
+            {
+              "id": "users/desktops/gnome",
+              "title": "GNOME Desktop",
+              "description": "At present, all Serpent OS ISOs default to the GNOME desktop, so no further action is",
+              "source": "@site/docs/users/desktops/gnome.md",
+              "sourceDirName": "users/desktops",
+              "slug": "/users/desktops/gnome",
+              "permalink": "/docs/users/desktops/gnome",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/users/desktops/gnome.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "GNOME Desktop"
+              },
+              "sidebar": "userSidebar",
+              "previous": {
+                "title": "COSMIC",
+                "permalink": "/docs/users/desktops/cosmic"
+              }
+            },
+            {
               "id": "users/intro",
               "title": "Introduction",
               "description": "These docs are brand new and quite pathetic atm.",
@@ -463,8 +515,15 @@
               "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/users/intro.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
-              "sidebar": "userSidebar"
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "userSidebar",
+              "next": {
+                "title": "Desktops",
+                "permalink": "/docs/category/desktops"
+              }
             }
           ],
           "drafts": [],
@@ -611,6 +670,28 @@
               {
                 "type": "doc",
                 "id": "users/intro"
+              },
+              {
+                "type": "category",
+                "label": "Desktops",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "users/desktops/cosmic"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "users/desktops/gnome"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Desktop environment in Serpent OS",
+                  "slug": "/category/desktops",
+                  "permalink": "/docs/category/desktops"
+                }
               }
             ]
           }

@@ -1,0 +1,27 @@
+{
+  "id": "users/desktops/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/users/desktops/intro.md",
+  "sourceDirName": "users/desktops",
+  "slug": "/users/desktops/intro",
+  "permalink": "/docs/users/desktops/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/users/desktops/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "userSidebar",
+  "previous": {
+    "title": "Desktops",
+    "permalink": "/docs/category/desktops"
+  },
+  "next": {
+    "title": "COSMIC",
+    "permalink": "/docs/users/desktops/cosmic"
+  }
+}

@@ -1,6 +1,10 @@
+---
+sidebar_position: 1
+---
+
 # Introduction
 
-:::danger 
+:::danger
 
 These docs are brand new and quite pathetic atm.
 

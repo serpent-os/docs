@@ -1,0 +1,16 @@
+{
+  "title": "Desktops",
+  "description": "Desktop environment in Serpent OS",
+  "slug": "/category/desktops",
+  "permalink": "/docs/category/desktops",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/users/intro"
+    },
+    "next": {
+      "title": "COSMIC",
+      "permalink": "/docs/users/desktops/cosmic"
+    }
+  }
+}

@@ -176,6 +176,29 @@
         "href": "/docs/users/intro",
         "docId": "users/intro",
         "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Desktops",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "COSMIC",
+            "href": "/docs/users/desktops/cosmic",
+            "docId": "users/desktops/cosmic",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "GNOME Desktop",
+            "href": "/docs/users/desktops/gnome",
+            "docId": "users/desktops/gnome",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/desktops"
       }
     ]
   },
@@ -280,6 +303,18 @@
       "title": "Defining Users",
       "description": "System accounts should always be marked as locked. Refer to the JSON User Record documentation for information on all supported fields.",
       "sidebar": "packageSidebar"
+    },
+    "users/desktops/cosmic": {
+      "id": "users/desktops/cosmic",
+      "title": "COSMIC",
+      "description": "The COSMIC Desktop from System76 is a highly popular",
+      "sidebar": "userSidebar"
+    },
+    "users/desktops/gnome": {
+      "id": "users/desktops/gnome",
+      "title": "GNOME Desktop",
+      "description": "At present, all Serpent OS ISOs default to the GNOME desktop, so no further action is",
+      "sidebar": "userSidebar"
     },
     "users/intro": {
       "id": "users/intro",

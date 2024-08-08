@@ -39,16 +39,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b78'),
+    component: ComponentCreator('/docs', '9fb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '09e'),
+        component: ComponentCreator('/docs', '4df'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '6ed'),
+            component: ComponentCreator('/docs', '1ac'),
             routes: [
+              {
+                path: '/docs/category/desktops',
+                component: ComponentCreator('/docs/category/desktops', '563'),
+                exact: true,
+                sidebar: "userSidebar"
+              },
               {
                 path: '/docs/category/recipes',
                 component: ComponentCreator('/docs/category/recipes', 'b62'),
@@ -179,6 +185,18 @@ export default [
                 component: ComponentCreator('/docs/packaging/users/overview', 'e14'),
                 exact: true,
                 sidebar: "packageSidebar"
+              },
+              {
+                path: '/docs/users/desktops/cosmic',
+                component: ComponentCreator('/docs/users/desktops/cosmic', 'a1c'),
+                exact: true,
+                sidebar: "userSidebar"
+              },
+              {
+                path: '/docs/users/desktops/gnome',
+                component: ComponentCreator('/docs/users/desktops/gnome', '38a'),
+                exact: true,
+                sidebar: "userSidebar"
               },
               {
                 path: '/docs/users/intro',

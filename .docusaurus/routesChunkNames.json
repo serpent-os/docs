@@ -42,18 +42,22 @@
       "plugin": "plugin---docusaurus-debug-8-ae-ccb"
     }
   },
-  "/docs-b78": {
+  "/docs-9fb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-13-c-7c1"
     }
   },
-  "/docs-09e": {
+  "/docs-4df": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-6ed": {
+  "/docs-1ac": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/desktops-563": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-desktopscf-5-fea"
   },
   "/docs/category/recipes-b62": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -142,6 +146,14 @@
   "/docs/packaging/users/overview-e14": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-packaging-users-overview-391-6f8"
+  },
+  "/docs/users/desktops/cosmic-a1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-users-desktops-cosmic-341-163"
+  },
+  "/docs/users/desktops/gnome-38a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-users-desktops-gnome-5-ed-9dc"
   },
   "/docs/users/intro-420": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -95,6 +95,16 @@
               "sidebar": "packageSidebar"
             },
             {
+              "id": "users/desktops/cosmic",
+              "path": "/docs/users/desktops/cosmic",
+              "sidebar": "userSidebar"
+            },
+            {
+              "id": "users/desktops/gnome",
+              "path": "/docs/users/desktops/gnome",
+              "sidebar": "userSidebar"
+            },
+            {
               "id": "users/intro",
               "path": "/docs/users/intro",
               "sidebar": "userSidebar"
@@ -123,6 +133,11 @@
               "id": "/category/system-users",
               "path": "/docs/category/system-users",
               "sidebar": "packageSidebar"
+            },
+            {
+              "id": "/category/desktops",
+              "path": "/docs/category/desktops",
+              "sidebar": "userSidebar"
             }
           ],
           "draftIds": [],

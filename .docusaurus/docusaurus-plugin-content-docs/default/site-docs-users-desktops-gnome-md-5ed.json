@@ -1,0 +1,24 @@
+{
+  "id": "users/desktops/gnome",
+  "title": "GNOME Desktop",
+  "description": "At present, all Serpent OS ISOs default to the GNOME desktop, so no further action is",
+  "source": "@site/docs/users/desktops/gnome.md",
+  "sourceDirName": "users/desktops",
+  "slug": "/users/desktops/gnome",
+  "permalink": "/docs/users/desktops/gnome",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/serpent-os/docs/tree/main/docs/users/desktops/gnome.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "GNOME Desktop"
+  },
+  "sidebar": "userSidebar",
+  "previous": {
+    "title": "COSMIC",
+    "permalink": "/docs/users/desktops/cosmic"
+  }
+}

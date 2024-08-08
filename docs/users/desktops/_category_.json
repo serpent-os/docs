@@ -1,0 +1,8 @@
+{
+    "label": "Desktops",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Desktop environment in Serpent OS"
+    }
+  }
